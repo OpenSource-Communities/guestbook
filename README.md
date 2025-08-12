@@ -34,7 +34,7 @@ All contributors are required to abide by our [Code of Conduct](https://github.c
 ## All Contributors
 
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-306-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-307-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 ## ✨ Contributors
@@ -439,6 +439,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/cyril-giri"><img src="https://avatars.githubusercontent.com/u/127924145?v=4?s=100" width="100px;" alt="Cyril Stafford Giri"/><br /><sub><b>Cyril Stafford Giri</b></sub></a><br /><a href="https://github.com/TejasQ/opensauced-guestbook/commits?author=cyril-giri" title="Code">💻</a> <a href="#design-cyril-giri" title="Design">🎨</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://www.crtse.dev/"><img src="https://avatars.githubusercontent.com/u/90201909?v=4?s=100" width="100px;" alt="Michael Cortese"/><br /><sub><b>Michael Cortese</b></sub></a><br /><a href="https://github.com/TejasQ/opensauced-guestbook/issues?q=author%3Amichaelcortese" title="Bug reports">🐛</a> <a href="https://github.com/TejasQ/opensauced-guestbook/commits?author=michaelcortese" title="Code">💻</a> <a href="#financial-michaelcortese" title="Financial">💵</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/observer04"><img src="https://avatars.githubusercontent.com/u/130742302?v=4?s=100" width="100px;" alt="Omm P"/><br /><sub><b>Omm P</b></sub></a><br /><a href="#question-observer04" title="Answering Questions">💬</a> <a href="https://github.com/TejasQ/opensauced-guestbook/issues?q=author%3Aobserver04" title="Bug reports">🐛</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/Nabinbista12"><img src="https://avatars.githubusercontent.com/u/109153966?v=4?s=100" width="100px;" alt="Nabin Bista"/><br /><sub><b>Nabin Bista</b></sub></a><br /><a href="#question-Nabinbista12" title="Answering Questions">💬</a></td>
     </tr>
   </tbody>
   <tfoot>
