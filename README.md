@@ -438,7 +438,16 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/Ufidtech"><img src="https://avatars.githubusercontent.com/u/180030586?v=4?s=100" width="100px;" alt="Danjuma Ibrahim"/><br /><sub><b>Danjuma Ibrahim</b></sub></a><br /><a href="#a11y-Ufidtech" title="Accessibility">️️️️♿️</a> <a href="#question-Ufidtech" title="Answering Questions">💬</a> <a href="https://github.com/TejasQ/opensauced-guestbook/issues?q=author%3AUfidtech" title="Bug reports">🐛</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/cyril-giri"><img src="https://avatars.githubusercontent.com/u/127924145?v=4?s=100" width="100px;" alt="Cyril Stafford Giri"/><br /><sub><b>Cyril Stafford Giri</b></sub></a><br /><a href="https://github.com/TejasQ/opensauced-guestbook/commits?author=cyril-giri" title="Code">💻</a> <a href="#design-cyril-giri" title="Design">🎨</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://www.crtse.dev/"><img src="https://avatars.githubusercontent.com/u/90201909?v=4?s=100" width="100px;" alt="Michael Cortese"/><br /><sub><b>Michael Cortese</b></sub></a><br /><a href="https://github.com/TejasQ/opensauced-guestbook/issues?q=author%3Amichaelcortese" title="Bug reports">🐛</a> <a href="https://github.com/TejasQ/opensauced-guestbook/commits?author=michaelcortese" title="Code">💻</a> <a href="#financial-michaelcortese" title="Financial">💵</a></td>
-      <td align="center" valign="top" width="14.28%"><a href="https://github.com/observer04"><img src="https://avatars.githubusercontent.com/u/130742302?v=4?s=100" width="100px;" alt="Omm P"/><br /><sub><b>Omm P</b></sub></a><br /><a href="#question-observer04" title="Answering Questions">💬</a> <a href="https://github.com/TejasQ/opensauced-guestbook/issues?q=author%3Aobserver04" title="Bug reports">🐛</a></td>
+<td align="center" valign="top" width="14.28%">
+  <a href="https://github.com/ashmitasenroy">
+    <img src="https://avatars.githubusercontent.com/u/127518773?v=4?s=100" width="100px;" alt="Ashmita Sen Roy"/>
+    <br />
+    <sub><b>Ashmita Sen Roy</b></sub>
+  </a>
+  <br />
+  💻 📖
+</td>
+<td align="center" valign="top" width="14.28%"><a href="https://github.com/observer04"><img src="https://avatars.githubusercontent.com/u/130742302?v=4?s=100" width="100px;" alt="Omm P"/><br /><sub><b>Omm P</b></sub></a><br /><a href="#question-observer04" title="Answering Questions">💬</a> <a href="https://github.com/TejasQ/opensauced-guestbook/issues?q=author%3Aobserver04" title="Bug reports">🐛</a></td>
     </tr>
   </tbody>
   <tfoot>
