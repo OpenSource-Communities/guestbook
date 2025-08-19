@@ -14,7 +14,7 @@ If you encounter merge conflicts while contributing to this repository, read the
 
 ## What's Next?
 
-Check out the [pizza-verse](https://github.com/Virtual-Coffee/pizza-verse) repository if you want to contribute more!🍕
+Check out the [pizza-verse](https://github.com/OpenSource-Communities/pizza-verse) repository if you want to contribute more!🍕
 
 ## 🤝 Contributing
 
