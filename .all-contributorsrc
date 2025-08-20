@@ -4379,6 +4379,16 @@
         "question",
         "bug"
       ]
+    },
+    {
+      "login": "pat-fish",
+      "name": "Patrick Fish",
+      "avatar_url": "https://avatars.githubusercontent.com/u/182018150?v=4",
+      "profile": "https://github.com/pat-fish",
+      "contributions": [
+        "question",
+        "example"
+      ]
     }
   ],
   "contributorsPerLine": 7,
