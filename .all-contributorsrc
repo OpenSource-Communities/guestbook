@@ -4389,6 +4389,18 @@
         "question",
         "example"
       ]
+    },
+    {
+      "login": "PandPirate",
+      "name": "PandPirate",
+      "avatar_url": "https://avatars.githubusercontent.com/u/43513935?v=4",
+      "profile": "https://github.com/PandPirate",
+      "contributions": [
+        "question",
+        "bug",
+        "test",
+        "userTesting"
+      ]
     }
   ],
   "contributorsPerLine": 7,
