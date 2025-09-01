@@ -34,7 +34,7 @@ All contributors are required to abide by our [Code of Conduct](https://github.c
 ## All Contributors
 
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-309-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-310-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 ## ✨ Contributors
@@ -444,6 +444,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
     </tr>
     <tr>
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/akrsh47"><img src="https://avatars.githubusercontent.com/u/173702791?v=4?s=100" width="100px;" alt="Akarsh Balachandran"/><br /><sub><b>Akarsh Balachandran</b></sub></a><br /><a href="https://github.com/TejasQ/opensauced-guestbook/commits?author=akrsh47" title="Documentation">📖</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/Nabinbista12"><img src="https://avatars.githubusercontent.com/u/109153966?v=4?s=100" width="100px;" alt="Nabin Bista"/><br /><sub><b>Nabin Bista</b></sub></a><br /><a href="#question-Nabinbista12" title="Answering Questions">💬</a></td>
     </tr>
   </tbody>
   <tfoot>
