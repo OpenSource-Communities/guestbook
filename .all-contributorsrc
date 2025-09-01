@@ -4379,6 +4379,44 @@
         "question",
         "bug"
       ]
+    },
+    {
+      "login": "pat-fish",
+      "name": "Patrick Fish",
+      "avatar_url": "https://avatars.githubusercontent.com/u/182018150?v=4",
+      "profile": "https://github.com/pat-fish",
+      "contributions": [
+        "question",
+        "example"
+      ]
+    },
+    {
+      "login": "blobmister",
+      "name": "Krish Gupta",
+      "avatar_url": "https://avatars.githubusercontent.com/u/179193922?v=4",
+      "profile": "https://github.com/blobmister",
+      "contributions": [
+        "code",
+        "userTesting"
+      ]
+    },
+    {
+      "login": "akrsh47",
+      "name": "Akarsh Balachandran",
+      "avatar_url": "https://avatars.githubusercontent.com/u/173702791?v=4",
+      "profile": "https://github.com/akrsh47",
+      "contributions": [
+        "doc"
+      ]
+    },
+    {
+      "login": "Nabinbista12",
+      "name": "Nabin Bista",
+      "avatar_url": "https://avatars.githubusercontent.com/u/109153966?v=4",
+      "profile": "https://github.com/Nabinbista12",
+      "contributions": [
+        "question"
+      ]
     }
   ],
   "contributorsPerLine": 7,
