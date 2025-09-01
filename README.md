@@ -34,7 +34,7 @@ All contributors are required to abide by our [Code of Conduct](https://github.c
 ## All Contributors
 
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-308-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-311-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 ## ✨ Contributors
@@ -440,6 +440,11 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
       <td align="center" valign="top" width="14.28%"><a href="https://www.crtse.dev/"><img src="https://avatars.githubusercontent.com/u/90201909?v=4?s=100" width="100px;" alt="Michael Cortese"/><br /><sub><b>Michael Cortese</b></sub></a><br /><a href="https://github.com/TejasQ/opensauced-guestbook/issues?q=author%3Amichaelcortese" title="Bug reports">🐛</a> <a href="https://github.com/TejasQ/opensauced-guestbook/commits?author=michaelcortese" title="Code">💻</a> <a href="#financial-michaelcortese" title="Financial">💵</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/observer04"><img src="https://avatars.githubusercontent.com/u/130742302?v=4?s=100" width="100px;" alt="Omm P"/><br /><sub><b>Omm P</b></sub></a><br /><a href="#question-observer04" title="Answering Questions">💬</a> <a href="https://github.com/TejasQ/opensauced-guestbook/issues?q=author%3Aobserver04" title="Bug reports">🐛</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/pat-fish"><img src="https://avatars.githubusercontent.com/u/182018150?v=4?s=100" width="100px;" alt="Patrick Fish"/><br /><sub><b>Patrick Fish</b></sub></a><br /><a href="#question-pat-fish" title="Answering Questions">💬</a> <a href="#example-pat-fish" title="Examples">💡</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/blobmister"><img src="https://avatars.githubusercontent.com/u/179193922?v=4?s=100" width="100px;" alt="Krish Gupta"/><br /><sub><b>Krish Gupta</b></sub></a><br /><a href="https://github.com/TejasQ/opensauced-guestbook/commits?author=blobmister" title="Code">💻</a> <a href="#userTesting-blobmister" title="User Testing">📓</a></td>
+    </tr>
+    <tr>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/akrsh47"><img src="https://avatars.githubusercontent.com/u/173702791?v=4?s=100" width="100px;" alt="Akarsh Balachandran"/><br /><sub><b>Akarsh Balachandran</b></sub></a><br /><a href="https://github.com/TejasQ/opensauced-guestbook/commits?author=akrsh47" title="Documentation">📖</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/Nabinbista12"><img src="https://avatars.githubusercontent.com/u/109153966?v=4?s=100" width="100px;" alt="Nabin Bista"/><br /><sub><b>Nabin Bista</b></sub></a><br /><a href="#question-Nabinbista12" title="Answering Questions">💬</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/PandPirate"><img src="https://avatars.githubusercontent.com/u/43513935?v=4?s=100" width="100px;" alt="PandPirate"/><br /><sub><b>PandPirate</b></sub></a><br /><a href="#question-PandPirate" title="Answering Questions">💬</a> <a href="https://github.com/TejasQ/opensauced-guestbook/issues?q=author%3APandPirate" title="Bug reports">🐛</a> <a href="https://github.com/TejasQ/opensauced-guestbook/commits?author=PandPirate" title="Tests">⚠️</a> <a href="#userTesting-PandPirate" title="User Testing">📓</a></td>
     </tr>
   </tbody>
