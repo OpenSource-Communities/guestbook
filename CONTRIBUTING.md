@@ -1,8 +1,8 @@
-# Contributing to OpenSauced Guestbook
+# Contributing Guidelines
 
-This repository is part of our [Intro to Open Source course](https://opensauced.pizza/learn/intro-to-oss/). We recommend you to take and complete the course before you contribute to this repository.
+This repository is part of the [Intro to Open Source course](https://opensauced.pizza/learn/intro-to-oss/). We recommend you to take and complete the course before you contribute to this repository.
 
-Contributions are always welcome, no matter how large or small. Before you begin, please read our [Code of Conduct](https://opensauced.pizza/docs/contributing/code-of-conduct/) and follow the directions below:
+Contributions are always welcome, no matter how large or small. Before you begin, please read our [Code of Conduct](https://github.com/OpenSource-Communities/.github/blob/main/CODE_OF_CONDUCT.md) and follow the directions below:
 
 ## Recommended Communication Style
 
@@ -14,9 +14,9 @@ Contributions are always welcome, no matter how large or small. Before you begin
 ## Issues
 
 - Issues with the `needs triage` label are unavailable until they are triaged and the label is removed. Feel free to check on the issue regularly if you want to work on it.
-- If you wish to work on an open issue, you can comment on it and tag `@open-sauced/docs`. Please refrain from working on an issue before it's assigned to you.
+- If you wish to work on an open issue, you can comment on it and tag the maintainers. Please refrain from working on an issue before it's assigned to you.
 
-In case you get stuck, feel free to ask for help in the [discussion](https://github.com/open-sauced/guestbook/discussions/categories/q-a).
+In case you get stuck, feel free to ask for help in the [discussion](https://github.com/Virtual-Coffee/guestbook/discussions/categories/q-a).
 
 ## Getting Started
 
