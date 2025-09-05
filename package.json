@@ -6,7 +6,11 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "contributors:generate": "all-contributors generate",
-    "contributors:add": "all-contributors add"
+    "contributors:add": "all-contributors add",
+    "contributors:validate": "python3 scripts/validate-contributor.py",
+    "contributors:migrate": "./scripts/migrate-contributors.sh",
+    "contributors:test": "./scripts/test-locally.sh",
+    "contributors:preview": "python3 scripts/preview-contribution.py"
   },
   "keywords": [],
   "author": "",

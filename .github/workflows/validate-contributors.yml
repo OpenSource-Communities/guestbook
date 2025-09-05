@@ -1,0 +1,52 @@
+name: Validate Contributors
+
+on:
+  pull_request:
+    paths:
+      - 'contributors/*.json'
+  push:
+    branches: [main]
+    paths:
+      - 'contributors/*.json'
+
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Setup Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.x'
+
+      - name: Validate contributor files
+        run: |
+          python3 scripts/validate-contributor.py
+
+      - name: Check for duplicate contributors
+        run: |
+          # Check for duplicate GitHub usernames
+          duplicates=$(find contributors/ -name "*.json" -exec basename {} .json \; | sort | uniq -d)
+          if [ -n "$duplicates" ]; then
+            echo "❌ Duplicate contributor files found:"
+            echo "$duplicates"
+            exit 1
+          else
+            echo "✅ No duplicate contributors found"
+          fi
+
+      - name: Validate JSON syntax
+        run: |
+          echo "🔍 Validating JSON syntax..."
+          for file in contributors/*.json; do
+            if [ -f "$file" ]; then
+              echo "Checking $file..."
+              python3 -c "import json; json.load(open('$file'))" || {
+                echo "❌ Invalid JSON in $file"
+                exit 1
+              }
+            fi
+          done
+          echo "✅ All JSON files have valid syntax"

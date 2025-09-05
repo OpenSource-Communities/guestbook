@@ -1,0 +1,141 @@
+name: Update Contributors
+
+on:
+  push:
+    branches: [main]
+    paths: ['contributors/*.json']
+  
+  # Allow manual triggering for maintenance
+  workflow_dispatch:
+
+permissions:
+  contents: write
+  pull-requests: read
+
+jobs:
+  update-contributors:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+          fetch-depth: 0
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '18'
+
+      - name: Install dependencies
+        run: |
+          npm install -g all-contributors-cli
+
+      - name: Backup current contributors
+        run: |
+          cp .all-contributorsrc .all-contributorsrc.backup || echo "No existing config found"
+
+      - name: Reset all-contributors config
+        run: |
+          # Create fresh config
+          cat > .all-contributorsrc << 'EOF'
+          {
+            "projectName": "guestbook",
+            "projectOwner": "OpenSource-Community",
+            "repoType": "github",
+            "repoHost": "https://github.com",
+            "files": ["README.md"],
+            "imageSize": 100,
+            "commit": false,
+            "commitConvention": "angular",
+            "contributors": []
+          }
+          EOF
+
+      - name: Process contributor files
+        run: |
+          echo "Processing contributor files..."
+          
+          # Check if contributors directory exists and has files
+          if [ ! -d "contributors" ] || [ -z "$(ls -A contributors/*.json 2>/dev/null)" ]; then
+            echo "No contributor files found"
+            exit 0
+          fi
+
+          # Process each JSON file
+          for file in contributors/*.json; do
+            if [ -f "$file" ]; then
+              filename=$(basename "$file")
+              
+              # Skip example and template files
+              if [[ "$filename" == "example-contributor.json" ]] || [[ "$filename" == ".gitkeep" ]]; then
+                echo "Skipping template file: $filename"
+                continue
+              fi
+              
+              echo "Processing $file"
+              
+              # Validate JSON (basic check)
+              if ! python3 -c "import json; json.load(open('$file'))" 2>/dev/null; then
+                echo "Error: Invalid JSON in $file"
+                continue
+              fi
+
+              # Extract data using Python since jq might not be available
+              username=$(basename "$file" .json)
+              name=$(python3 -c "import json; data=json.load(open('$file')); print(data.get('name', ''))")
+              github_username=$(python3 -c "import json; data=json.load(open('$file')); print(data.get('github', ''))")
+              profile=$(python3 -c "import json; data=json.load(open('$file')); print(data.get('profile', ''))")
+              contributions=$(python3 -c "import json; data=json.load(open('$file')); print(','.join(data.get('contributions', [])))")
+
+              # Validate required fields
+              if [ -z "$name" ] || [ -z "$github_username" ] || [ -z "$contributions" ]; then
+                echo "Error: Missing required fields in $file"
+                continue
+              fi
+
+              # Add contributor
+              echo "Adding contributor: $name (@$github_username)"
+              
+              if [ -n "$profile" ] && [ "$profile" != "null" ] && [ "$profile" != "" ]; then
+                npx all-contributors add "$github_username" "$contributions" --url "$profile" --name "$name"
+              else
+                npx all-contributors add "$github_username" "$contributions" --name "$name"
+              fi
+            fi
+          done
+
+      - name: Generate contributors section
+        run: |
+          npx all-contributors generate
+
+      - name: Check for changes
+        id: changes
+        run: |
+          if [ -n "$(git status --porcelain)" ]; then
+            echo "changes=true" >> $GITHUB_OUTPUT
+          else
+            echo "changes=false" >> $GITHUB_OUTPUT
+          fi
+
+      - name: Commit and push changes
+        if: steps.changes.outputs.changes == 'true'
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "Contributors Bot"
+          
+          git add .
+          git commit -m "chore: update contributors list
+
+          Auto-generated from contributors/*.json files
+          
+          [skip ci]"
+          git push
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Success notification
+        if: steps.changes.outputs.changes == 'true'
+        run: |
+          echo "✅ Contributors list updated successfully!"
+          echo "Changes committed and pushed to main branch."

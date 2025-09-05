@@ -1,48 +1,59 @@
-<!-- Please fill in all areas in this PR form. Incomplete PRs will be marked invalid and may be closed. -->
+## Type of Contribution
 
-## Description
+<!-- Please check ONE box that best describes your contribution -->
 
-<!--
-Please do not leave this blank. Add your description **below** this line and **outside** of the comment tags.
-For example: This PR adds <your-github-username> as a contributor.
--->
+- [ ] 🎉 **Adding myself as a new contributor** (following the intro course)
+- [ ] 🐛 **Bug fix**
+- [ ] ✨ **New feature** 
+- [ ] 📝 **Documentation update**
+- [ ] 🔧 **Other maintenance/improvement**
 
-## What type of PR is this? (check all applicable)
+---
 
-- [ ] 🤝 Add a contributor
-- [ ] 📝 Documentation Update
+## For New Contributors (Adding Yourself to Guestbook)
 
-## Related Issues
+<!-- Only fill this section if you checked "Adding myself as a new contributor" above -->
 
-<!--
-Add your related issue **below** this line and **outside** of the comment tags.
+### Checklist for Adding Yourself
+- [ ] I created a file named `contributors/[my-github-username].json`
+- [ ] I filled in all required fields: `name`, `github`, `contributions`
+- [ ] I only added ONE file (my contributor JSON file)
+- [ ] My JSON file is valid (no syntax errors)
+- [ ] I'm completing the [Intro to Open Source course](https://opensauced.pizza/learn/intro-to-oss/)
 
-Please use this format to link your issue: Closes #XXX.
-Change "XXX" to your issue number that you can find next to your issue's title.
+### About Me
+**Name:** 
+**Location (optional):** 
+**What I'm learning:** 
+**Fun fact:** 
 
-More information about link issue: https://docs.github.com/en/issues/tracking-your-work-with-issues/using-issues/linking-a-pull-request-to-an-issue
--->
+---
 
-## Contributors Checklist
+## For Other Contributions
 
-### I've read through the [Getting Started](https://intro.opensauced.pizza/#/intro-to-oss/how-to-contribute-to-open-source?id=getting-started) section
+<!-- Fill this section for bug fixes, features, documentation, etc. -->
 
-- [ ] ✅ Yes
-- [ ] ❌ Not yet
+### Description
+<!-- Describe what this PR changes and why -->
 
-### Have you run `npm run contributors:generate` to generate your profile and the badge on the README?
+### Changes Made
+<!-- List the specific changes -->
+- 
+- 
+- 
 
-- [ ] ✅ Yes
-- [ ] ❌ No
+### Screenshots (if applicable)
+<!-- Add screenshots for UI changes -->
 
-## Added to documentation?
+### Testing
+- [ ] I have tested these changes locally
+- [ ] I have reviewed my own code
+- [ ] I have added/updated documentation if needed
 
-- [ ] 📜 README.md
-- [ ] 🙅 no documentation needed
+---
 
-## Screenshot (Required for PR Review)
-
-<!-- Please provide a screenshot of your profile being generated on the README. This ensures that you ran the `npm run contributors:generate` command, as mentioned in the previous question, which makes it easier for the maintainers to review PRs. All PRs without screenshots will be automatically rejected-->
+## Additional Notes
+<!-- Any additional context, concerns, or information -->
 
 ## [optional] What GIF best describes this PR or how it makes you feel?
 

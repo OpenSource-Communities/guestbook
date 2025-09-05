@@ -1,0 +1,19 @@
+{
+  "name": "solenessa",
+  "github": "Solenessa",
+  "contributions": [
+    "question",
+    "code",
+    "content",
+    "data",
+    "design",
+    "doc",
+    "example",
+    "ideas",
+    "infra",
+    "review",
+    "security",
+    "userTesting"
+  ],
+  "profile": "https://github.com/Solenessa"
+}

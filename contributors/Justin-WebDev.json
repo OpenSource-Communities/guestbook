@@ -1,0 +1,27 @@
+{
+  "name": "Turdle",
+  "github": "Justin-WebDev",
+  "contributions": [
+    "a11y",
+    "question",
+    "bug",
+    "code",
+    "design",
+    "doc",
+    "example",
+    "ideas",
+    "infra",
+    "maintenance",
+    "mentoring",
+    "plugin",
+    "projectManagement",
+    "promotion",
+    "research",
+    "review",
+    "test",
+    "tool",
+    "tutorial",
+    "userTesting"
+  ],
+  "profile": "https://github.com/Justin-WebDev"
+}

@@ -1,0 +1,52 @@
+name: Welcome New Contributors
+
+on:
+  pull_request_target:
+    types: [closed]
+    paths:
+      - 'contributors/*.json'
+
+permissions:
+  pull-requests: write
+  issues: write
+
+jobs:
+  welcome:
+    if: github.event.pull_request.merged == true
+    runs-on: ubuntu-latest
+    steps:
+      - name: Welcome new contributor
+        uses: actions/github-script@v7
+        with:
+          script: |
+            // Check if this is a contributor addition PR
+            const prTitle = context.payload.pull_request.title.toLowerCase();
+            const isContributorPR = prTitle.includes('contributor') || prTitle.includes('add') || prTitle.includes('guestbook');
+            
+            if (isContributorPR) {
+              const welcomeMessage = `🎉 **Congratulations @${context.payload.pull_request.user.login}!**
+
+              Your contribution has been successfully merged and you're now part of our contributors list! 
+
+              **What just happened:**
+              ✅ Your contributor JSON file was processed
+              ✅ The README has been automatically updated with your information
+              ✅ You're now officially a contributor to this open source project!
+
+              **Next steps from the Intro to Open Source course:**
+             🍕 Check out the [pizza-verse](https://github.com/OpenSource-Communities/pizza-verse) repository for more contributions!
+
+              **Share your success:**
+              - Post about your first open source contribution on socials
+              - Share in the [OpenSauced Discord](https://discord.gg/U2peSNf23P)
+              - Tell your friends about the course!
+
+              Welcome to the open source community! 🚀`;
+
+              await github.rest.issues.createComment({
+                issue_number: context.issue.number,
+                owner: context.repo.owner,
+                repo: context.repo.repo,
+                body: welcomeMessage
+              });
+            }
