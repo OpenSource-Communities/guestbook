@@ -25,7 +25,7 @@ All contributors are required to abide by our [Code of Conduct](https://github.c
 ## All Contributors
 
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-312-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-313-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 ## ✨ Contributors
@@ -438,6 +438,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/Nabinbista12"><img src="https://avatars.githubusercontent.com/u/109153966?v=4?s=100" width="100px;" alt="Nabin Bista"/><br /><sub><b>Nabin Bista</b></sub></a><br /><a href="#question-Nabinbista12" title="Answering Questions">💬</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/PandPirate"><img src="https://avatars.githubusercontent.com/u/43513935?v=4?s=100" width="100px;" alt="PandPirate"/><br /><sub><b>PandPirate</b></sub></a><br /><a href="#question-PandPirate" title="Answering Questions">💬</a> <a href="https://github.com/OpenSource-Community/guestbook/issues?q=author%3APandPirate" title="Bug reports">🐛</a> <a href="https://github.com/OpenSource-Community/guestbook/commits?author=PandPirate" title="Tests">⚠️</a> <a href="#userTesting-PandPirate" title="User Testing">📓</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/Mandrukamal"><img src="https://avatars.githubusercontent.com/u/63830754?v=4?s=100" width="100px;" alt="Kamal Kumar Mandru"/><br /><sub><b>Kamal Kumar Mandru</b></sub></a><br /><a href="https://github.com/OpenSource-Community/guestbook/commits?author=Mandrukamal" title="Code">💻</a> <a href="https://github.com/OpenSource-Community/guestbook/commits?author=Mandrukamal" title="Documentation">📖</a> <a href="#userTesting-Mandrukamal" title="User Testing">📓</a> <a href="https://github.com/OpenSource-Community/guestbook/issues?q=author%3AMandrukamal" title="Bug reports">🐛</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/Hobbs04067"><img src="https://avatars.githubusercontent.com/u/190901860?v=4?s=100" width="100px;" alt="Tyler J Keller"/><br /><sub><b>Tyler J Keller</b></sub></a><br /><a href="#content-Hobbs04067" title="Content">🖋</a> <a href="#research-Hobbs04067" title="Research">🔬</a> <a href="https://github.com/OpenSource-Community/guestbook/commits?author=Hobbs04067" title="Tests">⚠️</a></td>
     </tr>
   </tbody>
   <tfoot>
