@@ -4429,6 +4429,18 @@
         "test",
         "userTesting"
       ]
+    },
+    {
+      "login": "Mandrukamal",
+      "name": "Kamal Kumar Mandru",
+      "avatar_url": "https://avatars.githubusercontent.com/u/63830754?v=4",
+      "profile": "https://github.com/Mandrukamal",
+      "contributions": [
+        "code",
+        "doc",
+        "userTesting",
+        "bug"
+      ]
     }
   ],
   "contributorsPerLine": 7,
