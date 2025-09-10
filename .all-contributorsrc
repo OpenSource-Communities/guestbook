@@ -4452,6 +4452,16 @@
         "research",
         "test"
       ]
+    },
+    {
+      "login": "JoseAndresVargas",
+      "name": "Jose Andrés Vargas Serrano",
+      "avatar_url": "https://avatars.githubusercontent.com/u/70724263?v=4",
+      "profile": "https://github.com/JoseAndresVargas",
+      "contributions": [
+        "code",
+        "doc"
+      ]
     }
   ],
   "contributorsPerLine": 7,
