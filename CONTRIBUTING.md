@@ -1,5 +1,8 @@
 # Contributing Guidelines
 
+Before contributing, make sure that you’re comfortable with:
+Git & GitHub (cloning, branching, commits, pull requests and etc).
+
 This repository is part of the [Intro to Open Source course](https://opensauced.pizza/learn/intro-to-oss/). We recommend you to take and complete the course before you contribute to this repository.
 
 Contributions are always welcome, no matter how large or small. Before you begin, please read our [Code of Conduct](https://github.com/OpenSource-Communities/.github/blob/main/CODE_OF_CONDUCT.md) and follow the directions below:
