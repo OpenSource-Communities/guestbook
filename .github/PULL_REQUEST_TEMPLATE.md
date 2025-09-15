@@ -16,7 +16,7 @@
 
 ### Checklist for Adding Yourself
 - [ ] I created a file named `contributors/[my-github-username].json`
-- [ ] I filled in all required fields: `name`, `github`, `contributions`
+- [ ] I filled in all required fields: `name`, `github`, `contributions`, `profile`
 - [ ] I only added ONE file (my contributor JSON file)
 - [ ] My JSON file is valid (no syntax errors)
 - [ ] I'm completing the [Intro to Open Source course](https://opensauced.pizza/learn/intro-to-oss/)
