@@ -60,7 +60,7 @@ try:
     with open('$file', 'r') as f:
         data = json.load(f)
     
-    required_fields = ['name', 'github', 'contributions']
+    required_fields = ['name', 'github', 'contributions', 'profile']
     missing_fields = [field for field in required_fields if field not in data or not data[field]]
     
     if missing_fields:
