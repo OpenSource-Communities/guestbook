@@ -52,70 +52,70 @@ jobs:
             filename=$(basename "$file" .json)
             
             # Validate JSON structure
-            python3 -c "
-import json
-import sys
+            python3 -c '
+          import json
+          import sys
 
-try:
-    with open('$file', 'r') as f:
-        data = json.load(f)
-    
-    required_fields = ['name', 'github', 'contributions', 'profile']
-    missing_fields = [field for field in required_fields if field not in data or not data[field]]
-    
-    if missing_fields:
-        print(f'❌ ERROR: Missing required fields: {missing_fields}')
-        sys.exit(1)
-    
-    # Check if filename matches github username
-    if data['github'] != '$filename':
-        print(f'❌ ERROR: Filename must match GitHub username')
-        print(f'   File: $filename.json')
-        print(f'   GitHub username in file: {data[\"github\"]}')
-        print(f'   Should be: {data[\"github\"]}.json')
-        sys.exit(1)
-    
-    print('✅ Contributor file is valid!')
-    
-except json.JSONDecodeError as e:
-    print(f'❌ ERROR: Invalid JSON format: {e}')
-    sys.exit(1)
-except Exception as e:
-    print(f'❌ ERROR: {e}')
-    sys.exit(1)
-" || exit 1
-          done
-          
-          echo "✅ All validations passed!"
+          try:
+              with open("'"$file"'", "r") as f:
+                  data = json.load(f)
+              
+              required_fields = ["name", "github", "contributions"]
+              missing_fields = [field for field in required_fields if field not in data or not data[field]]
+              
+              if missing_fields:
+                  print(f"❌ ERROR: Missing required fields: {missing_fields}")
+                  sys.exit(1)
 
-      - name: Welcome comment for new contributors
-        if: steps.changed-files.outputs.any_changed == 'true'
-        uses: actions/github-script@v7
-        with:
-          script: |
-            const changedFiles = '${{ steps.changed-files.outputs.all_changed_files }}';
-            
-            if (changedFiles.trim()) {
-              const comment = `🎉 **Welcome to the guestbook!**
-              
-              Thank you for contributing! Your submission looks good and follows the new conflict-free process.
-              
-              Once this PR is merged:
-              - ✅ You'll be automatically added to the contributors list in the README
-              - 🎓 You can continue with the next step in the [Intro to Open Source course](https://opensauced.pizza/learn/intro-to-oss/)
-              - 🌟 Consider creating a [highlight](https://app.opensauced.pizza/feed) of your contribution!
-              
-              **What happens next?**
-              - A maintainer will review your PR
-              - After merge, a GitHub Action will automatically update the README
-              - You'll see your profile appear in the contributors section!
-              
-              Thanks for being part of the open source community! 🚀`;
-              
-              github.rest.issues.createComment({
-                issue_number: context.issue.number,
-                owner: context.repo.owner,
-                repo: context.repo.repo,
-                body: comment
-              });
-            }
+            # Check if filename matches github username
+            if data["github"] != "'"$filename"'":
+                print(f"❌ ERROR: Filename must match GitHub username")
+                print(f"   File: {filename}.json")
+                print(f"   GitHub username in file: {data['github']}")
+                print(f"   Should be: {data['github']}.json")
+                sys.exit(1)
+
+            print("✅ Contributor file is valid!")
+
+          except json.JSONDecodeError as e:
+              print(f"❌ ERROR: Invalid JSON format: {e}")
+              sys.exit(1)
+          except Exception as e:
+              print(f"❌ ERROR: {e}")
+              sys.exit(1)
+          ' || exit 1
+                    done
+                    
+                    echo "✅ All validations passed!"
+
+                - name: Welcome comment for new contributors
+                  if: steps.changed-files.outputs.any_changed == 'true'
+                  uses: actions/github-script@v7
+                  with:
+                    script: |
+                      const changedFiles = '${{ steps.changed-files.outputs.all_changed_files }}';
+                      
+                      if (changedFiles.trim()) {
+                        const comment = `🎉 **Welcome to the guestbook!**
+                        
+                        Thank you for contributing! Your submission looks good and follows the new conflict-free process.
+                        
+                        Once this PR is merged:
+                        - ✅ You'll be automatically added to the contributors list in the README
+                        - 🎓 You can continue with the next step in the [Intro to Open Source course](https://opensauced.pizza/learn/intro-to-oss/)
+                        - 🌟 Consider creating a [highlight](https://app.opensauced.pizza/feed) of your contribution!
+                        
+                        **What happens next?**
+                        - A maintainer will review your PR
+                        - After merge, a GitHub Action will automatically update the README
+                        - You'll see your profile appear in the contributors section!
+                        
+                        Thanks for being part of the open source community! 🚀`;
+                        
+                        github.rest.issues.createComment({
+                          issue_number: context.issue.number,
+                          owner: context.repo.owner,
+                          repo: context.repo.repo,
+                          body: comment
+                        });
+                      }
