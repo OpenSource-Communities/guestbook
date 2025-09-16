@@ -1,0 +1,74 @@
+name: Validate Contributor
+
+on:
+  pull_request:
+    paths:
+      - 'contributors/*.json'
+
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout PR
+        uses: actions/checkout@v4
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '18'
+
+      - name: Get changed files
+        id: changed-files
+        uses: tj-actions/changed-files@v39
+        with:
+          files: |
+            contributors/*.json
+
+      - name: Validate contributor files
+        if: steps.changed-files.outputs.any_changed == 'true'
+        run: |
+          echo "🔍 Validating contributor files..."
+          
+          # Install dependencies
+          npm install
+          
+          # Run validation
+          node scripts/validate-contributor.js
+          
+          # Check specific changed files
+          for file in ${{ steps.changed-files.outputs.all_changed_files }}; do
+            echo "Checking $file"
+            
+            if [[ "$file" == contributors/*.json ]]; then
+              filename=$(basename "$file")
+              username="${filename%.json}"
+              
+              # Run preview for the specific file
+              echo "Preview for $username:"
+              node scripts/preview-contribution.js "$username"
+            fi
+          done
+
+      - name: Comment on PR
+        if: failure()
+        uses: actions/github-script@v7
+        with:
+          script: |
+            github.rest.issues.createComment({
+              issue_number: context.issue.number,
+              owner: context.repo.owner,
+              repo: context.repo.repo,
+              body: '❌ Your contributor file has validation errors. Please check the [action logs](${{ github.server_url }}/${{ github.repository }}/actions/runs/${{ github.run_id }}) for details.\n\nCommon issues:\n- Username in filename must match the `github` field in JSON\n- All required fields must be present: `name`, `github`, `contributions`\n- Use valid contribution types\n\nNeed help? Check the [contributor guide](docs/guides/contributor-guide.md).'
+            })
+
+      - name: Success comment
+        if: success() && steps.changed-files.outputs.any_changed == 'true'
+        uses: actions/github-script@v7
+        with:
+          script: |
+            github.rest.issues.createComment({
+              issue_number: context.issue.number,
+              owner: context.repo.owner,
+              repo: context.repo.repo,
+              body: '✅ Your contributor file is valid! Once this PR is merged, you\'ll automatically appear in the contributors section.\n\nThank you for your contribution! 🎉'
+            })
