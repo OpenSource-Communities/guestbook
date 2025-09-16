@@ -4462,6 +4462,20 @@
         "code",
         "doc"
       ]
+    },
+    {
+      "login": "mfarrasmajid",
+      "name": "Muhammad Farras Majid",
+      "avatar_url": "https://avatars.githubusercontent.com/u/47713041?v=4",
+      "profile": "https://mfarrasmajid.id/",
+      "contributions": [
+        "question",
+        "bug",
+        "code",
+        "doc",
+        "security",
+        "test"
+      ]
     }
   ],
   "contributorsPerLine": 7,
