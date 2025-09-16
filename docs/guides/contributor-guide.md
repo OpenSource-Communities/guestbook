@@ -8,11 +8,25 @@ Instead of editing the main README.md file (which causes merge conflicts), you'l
 
 ### Step-by-Step Instructions
 
-1. **Create your contributor file**
+1. **Fork and clone the repository**
+   - Fork this repository to your GitHub account
+   - Clone your fork locally:
+   ```bash
+   git clone https://github.com/YOUR-USERNAME/guestbook.git
+   cd guestbook
+   ```
+
+2. **Install dependencies**
+   Run the following command in your terminal:
+   ```bash
+   npm install
+   ```
+
+3. **Create your contributor file**
    - In this `contributors/` directory, create a new file named `your-github-username.json`
    - Replace `your-github-username` with your actual GitHub username (lowercase)
 
-2. **Add your information**
+4. **Add your information**
    Copy this template and fill in your details:
 
    ```json
@@ -24,7 +38,9 @@ Instead of editing the main README.md file (which causes merge conflicts), you'l
    }
    ```
 
-3. **Available contribution types**
+   **Profile field:** This should be your personal website URL. If you don't have a personal website, use your GitHub profile URL: `https://github.com/your-username`
+
+5. **Available contribution types**
    You can include any of these contribution types in your `contributions` array:
    - `"code"` - Code contributions
    - `"doc"` - Documentation
@@ -60,7 +76,7 @@ Instead of editing the main README.md file (which causes merge conflicts), you'l
    - `"userTesting"` - User testing
    - `"a11y"` - Accessibility
 
-4. **Example file**
+6. **Example file**
    If your GitHub username is `johndoe`, create `contributors/johndoe.json`:
 
    ```json
@@ -72,43 +88,54 @@ Instead of editing the main README.md file (which causes merge conflicts), you'l
    }
    ```
 
-5. **Test locally (optional)**
-   Want to see how your contribution will look before submitting? You have two options:
+7. **Test locally (recommended)**
+   It's recommended to preview how your contribution will look before submitting:
    
-   **Option A: Quick Preview (Recommended)**
    ```bash
    # Preview how your profile will appear (safe, no file changes)
    npm run contributors:preview your-github-username
    ```
    
-   **Option B: Full Test (Advanced)**
+   This will:
+   - Validate your JSON file
+   - Show you how your profile will appear
+   - Display next steps for creating your PR
+   
+   **For advanced testing:**
    ```bash
-   # Validate your JSON file
+   # Validate all JSON files
    npm run contributors:validate
    
    # Full test with temporary README generation
    npm run contributors:test your-github-username
    ```
-   
-   Both will show you exactly how your profile will appear in the README!
 
-6. **Submit your pull request**
+8. **Commit and push your changes**
+   After creating your contributor file:
+   ```bash
+   git add contributors/your-github-username.json
+   git commit -m "Add [Your Name] as a contributor"
+   git push origin your-branch-name
+   ```
+
+9. **Submit your pull request**
    - Your PR should only add ONE file: your `contributors/your-username.json` file
    - Title your PR: "Add [Your Name] as a contributor"
    - No need to edit any other files!
 
-7. **Automatic processing**
+10. **Automatic processing**
    Once your PR is merged, a GitHub Action will automatically:
    - Add you to the all-contributors system
    - Update the main README.md with your information
    - You'll appear in the contributors table!
 
-8. **Verify it worked**
+11. **Verify it worked**
    Want to confirm your contribution was successful? See: [testing-your-contribution.md](testing-your-contribution.md)
 
 
 ## Need Help?
 
-- Check out existing contributor files for examples
+- Check the [Troubleshooting Guide](../TROUBLESHOOTING.md)
+- Look at existing contributor files for examples
 - Ask questions in [GitHub Discussions](../../discussions)
 - Review the [Contributing Guidelines](../../CONTRIBUTING.md)

@@ -62,13 +62,18 @@ jobs:
             exit 0
           fi
 
+          # Count total files to process
+          total_files=$(ls -1 contributors/*.json 2>/dev/null | grep -v -E '(example-contributor\.json|\.gitkeep|README\.md)' | wc -l)
+          echo "Found $total_files contributor files to process"
+
           # Process each JSON file
+          processed=0
           for file in contributors/*.json; do
             if [ -f "$file" ]; then
               filename=$(basename "$file")
               
               # Skip example and template files
-              if [[ "$filename" == "example-contributor.json" ]] || [[ "$filename" == ".gitkeep" ]]; then
+              if [[ "$filename" == "example-contributor.json" ]] || [[ "$filename" == ".gitkeep" ]] || [[ "$filename" == "README.md" ]]; then
                 echo "Skipping template file: $filename"
                 continue
               fi
@@ -102,8 +107,12 @@ jobs:
               else
                 npx all-contributors add "$github_username" "$contributions" --name "$name"
               fi
+              
+              processed=$((processed + 1))
             fi
           done
+          
+          echo "✅ Processed $processed contributor files"
 
       - name: Generate contributors section
         run: |

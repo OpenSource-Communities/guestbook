@@ -108,7 +108,7 @@ def preview_contributor(username):
     print(f"  1. git add {contributor_file}")
     print(f"  2. git commit -m 'Add {name} as a contributor'")
     print(f"  3. git push origin your-branch-name")
-    print(f"  4. Create your pull request!")
+    print(f"  4. Create your pull request on GitHub!")
     print()
     print("💡 After your PR is merged, this exact profile will appear in the README automatically!")
     

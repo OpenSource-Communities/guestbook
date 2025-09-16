@@ -11,10 +11,13 @@ This guestbook is a place for people who have taken the [Intro to Open Source co
 Instead of editing this README directly, you now add yourself by creating a single JSON file. This prevents merge conflicts when multiple people contribute simultaneously.
 
 ### Quick Start
-1. Go to the [`contributors/`](contributors/) directory
-2. Create a file named `your-github-username.json`
-3. Fill it with your information (see template below)
-4. Submit your PR with just that one file!
+1. Fork and clone this repository
+2. Run `npm install` to install dependencies
+3. Go to the [`contributors/`](contributors/) directory
+4. Create a file named `your-github-username.json`
+5. Fill it with your information (see template below)
+6. Test your contribution: `npm run contributors:preview your-github-username`
+7. Submit your PR with just that one file!
 
 ### Template
 ```json
@@ -25,6 +28,8 @@ Instead of editing this README directly, you now add yourself by creating a sing
   "contributions": ["code", "doc", "ideas"]
 }
 ```
+
+**Note:** The `profile` field should be your personal website URL or your GitHub profile URL (https://github.com/your-username)
 
 📖 **For detailed instructions, see: [docs/guides/contributor-guide.md](docs/guides/contributor-guide.md)**
 
@@ -218,4 +223,4 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
     </tr>
     <tr>
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/lukepadiachy"><img src="https://avatars.githubusercontent.com/u/148848073?v=4?s=100" width="100px;" alt="🅿️adi"/><br /><sub><b>🅿️adi</b></sub></a><br /><a href="https://github.com/OpenSource-Community/guestbook/issues?q=author%3Alukepadiachy" title="Bug reports">🐛</a></td>
-      <td align="center" valign="top" width="14.28%"><a href="https://github.com/RafaelJohn9"><img src="https://avatars.githubusercontent.com/u/125447154?v=4?s=100" width="100px;" alt="JohnKagunda"/><br /><sub><b>JohnKagunda</b></sub></a><br /><a href="#a11y-RafaelJohn9" title="Accessibility">️️️️♿️</a> <a href="https://github.com/OpenSource-Community/guestbook/issues?q=author%3ARafaelJohn9" title="Bug reports">🐛</a> <a href="#business-RafaelJohn9" title="Business development">💼</a> <a href="https://github.com/OpenSource-Community/guestbook/commits?author=RafaelJohn9" title="Code">💻</a> <a href="#design-Rafael
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/RafaelJohn9"><img src="https://avatars.githubusercontent.com/u/125447154?v=4?s=100" width="100px;" alt="JohnKagunda"/><br /><sub><b>JohnKagunda</b></sub></a><br /><a href="#a11y-RafaelJohn9" title="Accessibility">️️️️♿️</a> <a href="https://github.com/OpenSource-Community/guestbook/issues?q=author%3ARafaelJohn9" title="Bug reports">🐛</a> <a href="#business-RafaelJohn9" title="Business dev
