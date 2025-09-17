@@ -1,6 +1,6 @@
 {
-  "projectName": "opensauced-guestbook",
-  "projectOwner": "TejasQ",
+  "projectName": "guestbook",
+  "projectOwner": "OpenSource-Community",
   "repoType": "github",
   "repoHost": "https://github.com",
   "files": [
@@ -4397,6 +4397,93 @@
       "contributions": [
         "question",
         "example"
+      ]
+    },
+    {
+      "login": "blobmister",
+      "name": "Krish Gupta",
+      "avatar_url": "https://avatars.githubusercontent.com/u/179193922?v=4",
+      "profile": "https://github.com/blobmister",
+      "contributions": [
+        "code",
+        "userTesting"
+      ]
+    },
+    {
+      "login": "akrsh47",
+      "name": "Akarsh Balachandran",
+      "avatar_url": "https://avatars.githubusercontent.com/u/173702791?v=4",
+      "profile": "https://github.com/akrsh47",
+      "contributions": [
+        "doc"
+      ]
+    },
+    {
+      "login": "Nabinbista12",
+      "name": "Nabin Bista",
+      "avatar_url": "https://avatars.githubusercontent.com/u/109153966?v=4",
+      "profile": "https://github.com/Nabinbista12",
+      "contributions": [
+        "question"
+      ]
+    },
+    {
+      "login": "PandPirate",
+      "name": "PandPirate",
+      "avatar_url": "https://avatars.githubusercontent.com/u/43513935?v=4",
+      "profile": "https://github.com/PandPirate",
+      "contributions": [
+        "question",
+        "bug",
+        "test",
+        "userTesting"
+      ]
+    },
+    {
+      "login": "Mandrukamal",
+      "name": "Kamal Kumar Mandru",
+      "avatar_url": "https://avatars.githubusercontent.com/u/63830754?v=4",
+      "profile": "https://github.com/Mandrukamal",
+      "contributions": [
+        "code",
+        "doc",
+        "userTesting",
+        "bug"
+      ]
+    },
+    {
+      "login": "Hobbs04067",
+      "name": "Tyler J Keller",
+      "avatar_url": "https://avatars.githubusercontent.com/u/190901860?v=4",
+      "profile": "https://github.com/Hobbs04067",
+      "contributions": [
+        "content",
+        "research",
+        "test"
+      ]
+    },
+    {
+      "login": "JoseAndresVargas",
+      "name": "Jose Andrés Vargas Serrano",
+      "avatar_url": "https://avatars.githubusercontent.com/u/70724263?v=4",
+      "profile": "https://github.com/JoseAndresVargas",
+      "contributions": [
+        "code",
+        "doc"
+      ]
+    },
+    {
+      "login": "mfarrasmajid",
+      "name": "Muhammad Farras Majid",
+      "avatar_url": "https://avatars.githubusercontent.com/u/47713041?v=4",
+      "profile": "https://mfarrasmajid.id/",
+      "contributions": [
+        "question",
+        "code",
+        "doc",
+        "security",
+        "test",
+        "tutorial"
       ]
     }
   ],
