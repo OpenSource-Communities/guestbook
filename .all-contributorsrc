@@ -4485,6 +4485,16 @@
         "test",
         "tutorial"
       ]
+    },
+    {
+      "login": "cahyoromadhon",
+      "name": "cahyoromadhon",
+      "avatar_url": "https://avatars.githubusercontent.com/u/168984531?v=4",
+      "profile": "https://github.com/cahyoromadhon",
+      "contributions": [
+        "doc",
+        "tutorial"
+      ]
     }
   ],
   "contributorsPerLine": 7,
