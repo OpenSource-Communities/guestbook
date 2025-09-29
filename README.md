@@ -25,7 +25,7 @@ All contributors are required to abide by our [Code of Conduct](https://github.c
 ## All Contributors
 
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-317-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-318-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 ## ✨ Contributors
@@ -445,6 +445,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
     <tr>
       <td align="center" valign="top" width="14.28%"><a href="https://mfarrasmajid.id/"><img src="https://avatars.githubusercontent.com/u/47713041?v=4?s=100" width="100px;" alt="Muhammad Farras Majid"/><br /><sub><b>Muhammad Farras Majid</b></sub></a><br /><a href="#question-mfarrasmajid" title="Answering Questions">💬</a> <a href="https://github.com/OpenSource-Community/guestbook/commits?author=mfarrasmajid" title="Code">💻</a> <a href="https://github.com/OpenSource-Community/guestbook/commits?author=mfarrasmajid" title="Documentation">📖</a> <a href="#security-mfarrasmajid" title="Security">🛡️</a> <a href="https://github.com/OpenSource-Community/guestbook/commits?author=mfarrasmajid" title="Tests">⚠️</a> <a href="#tutorial-mfarrasmajid" title="Tutorials">✅</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://joha546.github.io/Portfolio/"><img src="https://avatars.githubusercontent.com/u/126011074?v=4?s=100" width="100px;" alt="Md Khaled Bin Joha"/><br /><sub><b>Md Khaled Bin Joha</b></sub></a><br /><a href="#question-joha546" title="Answering Questions">💬</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/tungnguyen21012000-sys"><img src="https://avatars.githubusercontent.com/u/233725488?v=4?s=100" width="100px;" alt="soffwolf"/><br /><sub><b>soffwolf</b></sub></a><br /><a href="#question-tungnguyen21012000-sys" title="Answering Questions">💬</a> <a href="https://github.com/OpenSource-Community/guestbook/issues?q=author%3Atungnguyen21012000-sys" title="Bug reports">🐛</a></td>
     </tr>
   </tbody>
   <tfoot>
