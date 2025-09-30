@@ -25,11 +25,7 @@ All contributors are required to abide by our [Code of Conduct](https://github.c
 ## All Contributors
 
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-<<<<<<< HEAD
 [![All Contributors](https://img.shields.io/badge/all_contributors-319-orange.svg?style=flat-square)](#contributors-)
-=======
-[![All Contributors](https://img.shields.io/badge/all_contributors-317-orange.svg?style=flat-square)](#contributors-)
->>>>>>> parent of 551312d (docs: add @tungnguyen21012000-sys as a contributor)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 ## ✨ Contributors
