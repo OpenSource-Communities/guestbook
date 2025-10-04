@@ -4575,6 +4575,17 @@
         "question",
         "bug"
       ]
+    },
+    {
+      "login": "gopisrikrishna",
+      "name": "Gopi Sri Krishna Yarlagadda",
+      "avatar_url": "https://avatars.githubusercontent.com/u/51519189?v=4",
+      "profile": "https://gopisrikrishna.github.io/resume/",
+      "contributions": [
+        "business",
+        "code",
+        "security"
+      ]
     }
   ],
   "contributorsPerLine": 7,
