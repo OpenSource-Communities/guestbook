@@ -4586,6 +4586,34 @@
         "code",
         "security"
       ]
+    },
+    {
+      "login": "Willian-Xavier",
+      "name": "Willian Xavier",
+      "avatar_url": "https://avatars.githubusercontent.com/u/106575614?v=4",
+      "profile": "https://github.com/Willian-Xavier",
+      "contributions": [
+        "question",
+        "bug",
+        "business",
+        "code",
+        "content",
+        "design",
+        "doc",
+        "example",
+        "financial",
+        "ideas",
+        "infra",
+        "maintenance",
+        "platform",
+        "projectManagement",
+        "promotion",
+        "review",
+        "security",
+        "test",
+        "tool",
+        "translation"
+      ]
     }
   ],
   "contributorsPerLine": 7,
