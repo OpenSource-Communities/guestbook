@@ -4614,6 +4614,18 @@
         "tool",
         "translation"
       ]
+    },
+    {
+      "login": "moritzTheBear",
+      "name": "moritzTheBear",
+      "avatar_url": "https://avatars.githubusercontent.com/u/166619547?v=4",
+      "profile": "https://github.com/moritzTheBear",
+      "contributions": [
+        "blog",
+        "code",
+        "content",
+        "design"
+      ]
     }
   ],
   "contributorsPerLine": 7,
