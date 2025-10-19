@@ -4626,6 +4626,26 @@
         "content",
         "design"
       ]
+    },
+    {
+      "login": "N1femi",
+      "name": "Nifemi ",
+      "avatar_url": "https://avatars.githubusercontent.com/u/153329275?v=4",
+      "profile": "https://github.com/N1femi",
+      "contributions": [
+        "question",
+        "blog",
+        "bug",
+        "code",
+        "design",
+        "doc",
+        "example",
+        "ideas",
+        "infra",
+        "maintenance",
+        "review",
+        "tutorial"
+      ]
     }
   ],
   "contributorsPerLine": 7,
