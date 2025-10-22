@@ -4646,6 +4646,16 @@
         "review",
         "tutorial"
       ]
+    },
+    {
+      "login": "meijiro-yumeru",
+      "name": "meijiro-yumeru",
+      "avatar_url": "https://avatars.githubusercontent.com/u/179510462?v=4",
+      "profile": "https://github.com/meijiro-yumeru",
+      "contributions": [
+        "question",
+        "bug"
+      ]
     }
   ],
   "contributorsPerLine": 7,
