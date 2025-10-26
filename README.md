@@ -25,7 +25,7 @@ All contributors are required to abide by our [Code of Conduct](https://github.c
 ## All Contributors
 
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-327-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-328-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 ## ✨ Contributors
@@ -457,6 +457,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/moritzTheBear"><img src="https://avatars.githubusercontent.com/u/166619547?v=4?s=100" width="100px;" alt="moritzTheBear"/><br /><sub><b>moritzTheBear</b></sub></a><br /><a href="#blog-moritzTheBear" title="Blogposts">📝</a> <a href="https://github.com/OpenSource-Community/guestbook/commits?author=moritzTheBear" title="Code">💻</a> <a href="#content-moritzTheBear" title="Content">🖋</a> <a href="#design-moritzTheBear" title="Design">🎨</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/N1femi"><img src="https://avatars.githubusercontent.com/u/153329275?v=4?s=100" width="100px;" alt="Nifemi "/><br /><sub><b>Nifemi </b></sub></a><br /><a href="#question-N1femi" title="Answering Questions">💬</a> <a href="#blog-N1femi" title="Blogposts">📝</a> <a href="https://github.com/OpenSource-Community/guestbook/issues?q=author%3AN1femi" title="Bug reports">🐛</a> <a href="https://github.com/OpenSource-Community/guestbook/commits?author=N1femi" title="Code">💻</a> <a href="#design-N1femi" title="Design">🎨</a> <a href="https://github.com/OpenSource-Community/guestbook/commits?author=N1femi" title="Documentation">📖</a> <a href="#example-N1femi" title="Examples">💡</a> <a href="#ideas-N1femi" title="Ideas, Planning, & Feedback">🤔</a> <a href="#infra-N1femi" title="Infrastructure (Hosting, Build-Tools, etc)">🚇</a> <a href="#maintenance-N1femi" title="Maintenance">🚧</a> <a href="https://github.com/OpenSource-Community/guestbook/pulls?q=is%3Apr+reviewed-by%3AN1femi" title="Reviewed Pull Requests">👀</a> <a href="#tutorial-N1femi" title="Tutorials">✅</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/meijiro-yumeru"><img src="https://avatars.githubusercontent.com/u/179510462?v=4?s=100" width="100px;" alt="meijiro-yumeru"/><br /><sub><b>meijiro-yumeru</b></sub></a><br /><a href="#question-meijiro-yumeru" title="Answering Questions">💬</a> <a href="https://github.com/OpenSource-Community/guestbook/issues?q=author%3Ameijiro-yumeru" title="Bug reports">🐛</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/nganhuongg"><img src="https://avatars.githubusercontent.com/u/85781109?v=4?s=100" width="100px;" alt="nganhuongg"/><br /><sub><b>nganhuongg</b></sub></a><br /><a href="#question-nganhuongg" title="Answering Questions">💬</a> <a href="https://github.com/OpenSource-Community/guestbook/issues?q=author%3Anganhuongg" title="Bug reports">🐛</a></td>
     </tr>
   </tbody>
   <tfoot>
