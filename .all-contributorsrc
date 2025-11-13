@@ -4707,6 +4707,18 @@
         "userTesting",
         "video"
       ]
+    },
+    {
+      "login": "Sheko100",
+      "name": "Shaker",
+      "avatar_url": "https://avatars.githubusercontent.com/u/61605916?v=4",
+      "profile": "https://github.com/Sheko100",
+      "contributions": [
+        "bug",
+        "code",
+        "doc",
+        "translation"
+      ]
     }
   ],
   "contributorsPerLine": 7,
