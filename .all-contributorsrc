@@ -4719,6 +4719,15 @@
         "doc",
         "translation"
       ]
+    },
+    {
+      "login": "makiladamsuka",
+      "name": "Makila Damsuka",
+      "avatar_url": "https://avatars.githubusercontent.com/u/197337689?v=4",
+      "profile": "https://github.com/makiladamsuka",
+      "contributions": [
+        "bug"
+      ]
     }
   ],
   "contributorsPerLine": 7,
