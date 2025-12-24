@@ -4728,6 +4728,17 @@
       "contributions": [
         "bug"
       ]
+    },
+    {
+      "login": "AkarshanGupta",
+      "name": "Akarshan Gupta ",
+      "avatar_url": "https://avatars.githubusercontent.com/u/115368981?v=4",
+      "profile": "https://github.com/AkarshanGupta",
+      "contributions": [
+        "question",
+        "bug",
+        "research"
+      ]
     }
   ],
   "contributorsPerLine": 7,
