@@ -4777,6 +4777,16 @@
         "userTesting",
         "video"
       ]
+    },
+    {
+      "login": "BrendaG04",
+      "name": "Brenda Galdamez",
+      "avatar_url": "https://avatars.githubusercontent.com/u/147419872?v=4",
+      "profile": "https://github.com/BrendaG04",
+      "contributions": [
+        "question",
+        "bug"
+      ]
     }
   ],
   "contributorsPerLine": 7,
