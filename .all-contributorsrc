@@ -4787,6 +4787,16 @@
         "question",
         "bug"
       ]
+    },
+    {
+      "login": "Ksumit1109",
+      "name": "Sumit",
+      "avatar_url": "https://avatars.githubusercontent.com/u/104936009?v=4",
+      "profile": "https://sumitmehra.vercel.app/",
+      "contributions": [
+        "code",
+        "doc"
+      ]
     }
   ],
   "contributorsPerLine": 7,
