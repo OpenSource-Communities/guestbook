@@ -4787,6 +4787,19 @@
         "question",
         "bug"
       ]
+    },
+    {
+      "login": "sjmy",
+      "name": "sjmy",
+      "avatar_url": "https://avatars.githubusercontent.com/u/23250749?v=4",
+      "profile": "https://github.com/sjmy",
+      "contributions": [
+        "question",
+        "bug",
+        "code",
+        "doc",
+        "userTesting"
+      ]
     }
   ],
   "contributorsPerLine": 7,
