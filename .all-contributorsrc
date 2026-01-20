@@ -4800,6 +4800,17 @@
         "doc",
         "userTesting"
       ]
+    },
+    {
+      "login": "guerrasz",
+      "name": "Lucas Guerra",
+      "avatar_url": "https://avatars.githubusercontent.com/u/100133833?v=4",
+      "profile": "https://github.com/guerrasz",
+      "contributions": [
+        "code",
+        "doc",
+        "infra"
+      ]
     }
   ],
   "contributorsPerLine": 7,
