@@ -25,7 +25,7 @@ All contributors are required to abide by our [Code of Conduct](https://github.c
 ## All Contributors
 
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-336-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-337-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 ## ✨ Contributors
@@ -468,6 +468,9 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/BrendaG04"><img src="https://avatars.githubusercontent.com/u/147419872?v=4?s=100" width="100px;" alt="Brenda Galdamez"/><br /><sub><b>Brenda Galdamez</b></sub></a><br /><a href="#question-BrendaG04" title="Answering Questions">💬</a> <a href="https://github.com/OpenSource-Community/guestbook/issues?q=author%3ABrendaG04" title="Bug reports">🐛</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/sjmy"><img src="https://avatars.githubusercontent.com/u/23250749?v=4?s=100" width="100px;" alt="sjmy"/><br /><sub><b>sjmy</b></sub></a><br /><a href="#question-sjmy" title="Answering Questions">💬</a> <a href="https://github.com/OpenSource-Community/guestbook/issues?q=author%3Asjmy" title="Bug reports">🐛</a> <a href="https://github.com/OpenSource-Community/guestbook/commits?author=sjmy" title="Code">💻</a> <a href="https://github.com/OpenSource-Community/guestbook/commits?author=sjmy" title="Documentation">📖</a> <a href="#userTesting-sjmy" title="User Testing">📓</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/guerrasz"><img src="https://avatars.githubusercontent.com/u/100133833?v=4?s=100" width="100px;" alt="Lucas Guerra"/><br /><sub><b>Lucas Guerra</b></sub></a><br /><a href="https://github.com/OpenSource-Community/guestbook/commits?author=guerrasz" title="Code">💻</a> <a href="https://github.com/OpenSource-Community/guestbook/commits?author=guerrasz" title="Documentation">📖</a> <a href="#infra-guerrasz" title="Infrastructure (Hosting, Build-Tools, etc)">🚇</a></td>
+    </tr>
+    <tr>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/kostaskoukos"><img src="https://avatars.githubusercontent.com/u/85506368?v=4?s=100" width="100px;" alt="kostaskoukos"/><br /><sub><b>kostaskoukos</b></sub></a><br /><a href="#question-kostaskoukos" title="Answering Questions">💬</a> <a href="https://github.com/OpenSource-Community/guestbook/issues?q=author%3Akostaskoukos" title="Bug reports">🐛</a></td>
     </tr>
   </tbody>
   <tfoot>

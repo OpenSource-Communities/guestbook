@@ -4811,6 +4811,16 @@
         "doc",
         "infra"
       ]
+    },
+    {
+      "login": "kostaskoukos",
+      "name": "kostaskoukos",
+      "avatar_url": "https://avatars.githubusercontent.com/u/85506368?v=4",
+      "profile": "https://github.com/kostaskoukos",
+      "contributions": [
+        "question",
+        "bug"
+      ]
     }
   ],
   "contributorsPerLine": 7,
