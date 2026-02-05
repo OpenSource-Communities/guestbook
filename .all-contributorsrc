@@ -4839,6 +4839,16 @@
         "mentoring",
         "review"
       ]
+    },
+    {
+      "login": "hussain-jawaid",
+      "name": "Hussain Jawaid",
+      "avatar_url": "https://avatars.githubusercontent.com/u/168823785?v=4",
+      "profile": "https://hussain-jawaid-portfolio.vercel.app/",
+      "contributions": [
+        "question",
+        "bug"
+      ]
     }
   ],
   "contributorsPerLine": 7,
