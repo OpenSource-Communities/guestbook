@@ -4858,6 +4858,16 @@
       "contributions": [
         "code"
       ]
+    },
+    {
+      "login": "Gavevski04",
+      "name": "Nikola Gavevski",
+      "avatar_url": "https://avatars.githubusercontent.com/u/202693409?v=4",
+      "profile": "https://github.com/Gavevski04",
+      "contributions": [
+        "doc",
+        "code"
+      ]
     }
   ],
   "contributorsPerLine": 7,
