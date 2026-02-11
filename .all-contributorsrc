@@ -4873,3 +4873,25 @@
   "contributorsPerLine": 7,
   "linkToUsage": true
 }
+,
+    {
+      "login": "Amer-css",
+      "name": "Amer Shamlan",
+      "avatar_url": "https://github.com/Amer-css.png",
+      "profile": "https://github.com/Amer-css",
+      "contributions": [
+        "doc",
+        "design"
+      ]
+    }
+,
+{
+  "login": "Amer-css",
+  "name": "Amer Shamlan",
+  "avatar_url": "https://github.com/Amer-css.png",
+  "profile": "https://github.com/Amer-css",
+  "contributions": [
+    "doc",
+    "design"
+  ]
+}
