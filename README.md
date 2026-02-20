@@ -25,7 +25,7 @@ All contributors are required to abide by our [Code of Conduct](https://github.c
 ## All Contributors
 
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-341-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-342-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 ## ✨ Contributors
@@ -475,6 +475,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
       <td align="center" valign="top" width="14.28%"><a href="https://hussain-jawaid-portfolio.vercel.app/"><img src="https://avatars.githubusercontent.com/u/168823785?v=4?s=100" width="100px;" alt="Hussain Jawaid"/><br /><sub><b>Hussain Jawaid</b></sub></a><br /><a href="#question-hussain-jawaid" title="Answering Questions">💬</a> <a href="https://github.com/OpenSource-Community/guestbook/issues?q=author%3Ahussain-jawaid" title="Bug reports">🐛</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/TikTorchic18"><img src="https://avatars.githubusercontent.com/u/92613914?v=4?s=100" width="100px;" alt="Ridwan Ahmed"/><br /><sub><b>Ridwan Ahmed</b></sub></a><br /><a href="https://github.com/OpenSource-Community/guestbook/commits?author=TikTorchic18" title="Code">💻</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/Gavevski04"><img src="https://avatars.githubusercontent.com/u/202693409?v=4?s=100" width="100px;" alt="Nikola Gavevski"/><br /><sub><b>Nikola Gavevski</b></sub></a><br /><a href="https://github.com/OpenSource-Community/guestbook/commits?author=Gavevski04" title="Documentation">📖</a> <a href="https://github.com/OpenSource-Community/guestbook/commits?author=Gavevski04" title="Code">💻</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/Scarr77"><img src="https://avatars.githubusercontent.com/u/166191241?v=4?s=100" width="100px;" alt="Shadrick Carr"/><br /><sub><b>Shadrick Carr</b></sub></a><br /><a href="https://github.com/OpenSource-Community/guestbook/commits?author=Scarr77" title="Code">💻</a></td>
     </tr>
   </tbody>
   <tfoot>
