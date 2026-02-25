@@ -25,7 +25,7 @@ All contributors are required to abide by our [Code of Conduct](https://github.c
 ## All Contributors
 
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-341-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-342-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 ## ✨ Contributors
@@ -475,6 +475,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
       <td align="center" valign="top" width="14.28%"><a href="https://hussain-jawaid-portfolio.vercel.app/"><img src="https://avatars.githubusercontent.com/u/168823785?v=4?s=100" width="100px;" alt="Hussain Jawaid"/><br /><sub><b>Hussain Jawaid</b></sub></a><br /><a href="#question-hussain-jawaid" title="Answering Questions">💬</a> <a href="https://github.com/OpenSource-Community/guestbook/issues?q=author%3Ahussain-jawaid" title="Bug reports">🐛</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/TikTorchic18"><img src="https://avatars.githubusercontent.com/u/92613914?v=4?s=100" width="100px;" alt="Ridwan Ahmed"/><br /><sub><b>Ridwan Ahmed</b></sub></a><br /><a href="https://github.com/OpenSource-Community/guestbook/commits?author=TikTorchic18" title="Code">💻</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/Gavevski04"><img src="https://avatars.githubusercontent.com/u/202693409?v=4?s=100" width="100px;" alt="Nikola Gavevski"/><br /><sub><b>Nikola Gavevski</b></sub></a><br /><a href="https://github.com/OpenSource-Community/guestbook/commits?author=Gavevski04" title="Documentation">📖</a> <a href="https://github.com/OpenSource-Community/guestbook/commits?author=Gavevski04" title="Code">💻</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/Shafin2954"><img src="https://avatars.githubusercontent.com/u/84165820?v=4?s=100" width="100px;" alt="Shafin Ahmed"/><br /><sub><b>Shafin Ahmed</b></sub></a><br /><a href="https://github.com/OpenSource-Community/guestbook/issues?q=author%3AShafin2954" title="Bug reports">🐛</a> <a href="#business-Shafin2954" title="Business development">💼</a> <a href="https://github.com/OpenSource-Community/guestbook/commits?author=Shafin2954" title="Code">💻</a> <a href="#data-Shafin2954" title="Data">🔣</a> <a href="#design-Shafin2954" title="Design">🎨</a> <a href="#ideas-Shafin2954" title="Ideas, Planning, & Feedback">🤔</a> <a href="#research-Shafin2954" title="Research">🔬</a></td>
     </tr>
   </tbody>
   <tfoot>
