@@ -25,7 +25,7 @@ All contributors are required to abide by our [Code of Conduct](https://github.c
 ## All Contributors
 
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-343-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-344-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 ## ✨ Contributors
@@ -477,6 +477,9 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/Gavevski04"><img src="https://avatars.githubusercontent.com/u/202693409?v=4?s=100" width="100px;" alt="Nikola Gavevski"/><br /><sub><b>Nikola Gavevski</b></sub></a><br /><a href="https://github.com/OpenSource-Community/guestbook/commits?author=Gavevski04" title="Documentation">📖</a> <a href="https://github.com/OpenSource-Community/guestbook/commits?author=Gavevski04" title="Code">💻</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/Shafin2954"><img src="https://avatars.githubusercontent.com/u/84165820?v=4?s=100" width="100px;" alt="Shafin Ahmed"/><br /><sub><b>Shafin Ahmed</b></sub></a><br /><a href="https://github.com/OpenSource-Community/guestbook/issues?q=author%3AShafin2954" title="Bug reports">🐛</a> <a href="#business-Shafin2954" title="Business development">💼</a> <a href="https://github.com/OpenSource-Community/guestbook/commits?author=Shafin2954" title="Code">💻</a> <a href="#data-Shafin2954" title="Data">🔣</a> <a href="#design-Shafin2954" title="Design">🎨</a> <a href="#ideas-Shafin2954" title="Ideas, Planning, & Feedback">🤔</a> <a href="#research-Shafin2954" title="Research">🔬</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/egerminario"><img src="https://avatars.githubusercontent.com/u/160625080?v=4?s=100" width="100px;" alt="egerminario"/><br /><sub><b>egerminario</b></sub></a><br /><a href="#question-egerminario" title="Answering Questions">💬</a> <a href="https://github.com/OpenSource-Community/guestbook/issues?q=author%3Aegerminario" title="Bug reports">🐛</a> <a href="#content-egerminario" title="Content">🖋</a></td>
+    </tr>
+    <tr>
+      <td align="center" valign="top" width="14.28%"><a href="https://kmwhid.netlify.app/"><img src="https://avatars.githubusercontent.com/u/109499271?v=4?s=100" width="100px;" alt="Khalid Muhammad"/><br /><sub><b>Khalid Muhammad</b></sub></a><br /><a href="https://github.com/OpenSource-Community/guestbook/commits?author=km-wahid" title="Code">💻</a></td>
     </tr>
   </tbody>
   <tfoot>
