@@ -4903,6 +4903,28 @@
       "contributions": [
         "question"
       ]
+    },
+    {
+      "login": "anshid",
+      "name": "Anshid Aboobacker",
+      "avatar_url": "https://avatars.githubusercontent.com/u/19364362?v=4",
+      "profile": "https://www.linkedin.com/in/anshidaboobacker/",
+      "contributions": [
+        "question",
+        "blog",
+        "bug",
+        "code",
+        "design",
+        "financial",
+        "ideas",
+        "mentoring",
+        "projectManagement",
+        "security",
+        "talk",
+        "test",
+        "tool",
+        "tutorial"
+      ]
     }
   ],
   "contributorsPerLine": 7,
