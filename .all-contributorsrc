@@ -4903,8 +4903,22 @@
       "contributions": [
         "question"
       ]
-    }
+    },
+{
+  "login": "Maisa2006",
+  "name": "Maria Solis",
+  "avatar_url": "https://avatars.githubusercontent.com/u/Maisa2006",
+  "profile": "https://github.com/Maisa2006",
+  "contributions": [
+    "doc",
+    "tutorial",
+    "content"
+    ]
+  }
+
   ],
   "contributorsPerLine": 7,
   "linkToUsage": true
-}
+},
+
+
