@@ -4925,6 +4925,28 @@
         "tool",
         "tutorial"
       ]
+    },
+    {
+      "login": "juancguerrerom13",
+      "name": "Juan Camilo Guerrero Martínez",
+      "avatar_url": "https://avatars.githubusercontent.com/u/235619730?v=4",
+      "profile": "https://github.com/juancguerrerom13",
+      "contributions": [
+        "bug",
+        "business",
+        "code",
+        "content",
+        "data",
+        "design",
+        "doc",
+        "example",
+        "ideas",
+        "research",
+        "talk",
+        "tool",
+        "translation",
+        "tutorial"
+      ]
     }
   ],
   "contributorsPerLine": 7,
