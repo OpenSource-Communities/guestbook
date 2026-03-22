@@ -4925,6 +4925,23 @@
         "tool",
         "tutorial"
       ]
+    },
+    {
+      "login": "Yashrajsinh-Kanchva",
+      "name": "Yashrajsinh Kanchva",
+      "avatar_url": "https://avatars.githubusercontent.com/u/209811384?v=4",
+      "profile": "https://github.com/Yashrajsinh-Kanchva",
+      "contributions": [
+        "bug",
+        "code",
+        "content",
+        "data",
+        "design",
+        "doc",
+        "ideas",
+        "projectManagement",
+        "test"
+      ]
     }
   ],
   "contributorsPerLine": 7,

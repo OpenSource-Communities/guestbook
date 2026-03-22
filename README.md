@@ -25,7 +25,7 @@ All contributors are required to abide by our [Code of Conduct](https://github.c
 ## All Contributors
 
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-345-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-346-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 ## ✨ Contributors
@@ -481,6 +481,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
     <tr>
       <td align="center" valign="top" width="14.28%"><a href="https://kmwhid.netlify.app/"><img src="https://avatars.githubusercontent.com/u/109499271?v=4?s=100" width="100px;" alt="Khalid Muhammad"/><br /><sub><b>Khalid Muhammad</b></sub></a><br /><a href="#question-km-wahid" title="Answering Questions">💬</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://www.linkedin.com/in/anshidaboobacker/"><img src="https://avatars.githubusercontent.com/u/19364362?v=4?s=100" width="100px;" alt="Anshid Aboobacker"/><br /><sub><b>Anshid Aboobacker</b></sub></a><br /><a href="#question-anshid" title="Answering Questions">💬</a> <a href="#blog-anshid" title="Blogposts">📝</a> <a href="https://github.com/OpenSource-Community/guestbook/issues?q=author%3Aanshid" title="Bug reports">🐛</a> <a href="https://github.com/OpenSource-Community/guestbook/commits?author=anshid" title="Code">💻</a> <a href="#design-anshid" title="Design">🎨</a> <a href="#financial-anshid" title="Financial">💵</a> <a href="#ideas-anshid" title="Ideas, Planning, & Feedback">🤔</a> <a href="#mentoring-anshid" title="Mentoring">🧑‍🏫</a> <a href="#projectManagement-anshid" title="Project Management">📆</a> <a href="#security-anshid" title="Security">🛡️</a> <a href="#talk-anshid" title="Talks">📢</a> <a href="https://github.com/OpenSource-Community/guestbook/commits?author=anshid" title="Tests">⚠️</a> <a href="#tool-anshid" title="Tools">🔧</a> <a href="#tutorial-anshid" title="Tutorials">✅</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/Yashrajsinh-Kanchva"><img src="https://avatars.githubusercontent.com/u/209811384?v=4?s=100" width="100px;" alt="Yashrajsinh Kanchva"/><br /><sub><b>Yashrajsinh Kanchva</b></sub></a><br /><a href="https://github.com/OpenSource-Community/guestbook/issues?q=author%3AYashrajsinh-Kanchva" title="Bug reports">🐛</a> <a href="https://github.com/OpenSource-Community/guestbook/commits?author=Yashrajsinh-Kanchva" title="Code">💻</a> <a href="#content-Yashrajsinh-Kanchva" title="Content">🖋</a> <a href="#data-Yashrajsinh-Kanchva" title="Data">🔣</a> <a href="#design-Yashrajsinh-Kanchva" title="Design">🎨</a> <a href="https://github.com/OpenSource-Community/guestbook/commits?author=Yashrajsinh-Kanchva" title="Documentation">📖</a> <a href="#ideas-Yashrajsinh-Kanchva" title="Ideas, Planning, & Feedback">🤔</a> <a href="#projectManagement-Yashrajsinh-Kanchva" title="Project Management">📆</a> <a href="https://github.com/OpenSource-Community/guestbook/commits?author=Yashrajsinh-Kanchva" title="Tests">⚠️</a></td>
     </tr>
   </tbody>
   <tfoot>
