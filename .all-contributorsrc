@@ -4936,6 +4936,16 @@
         "bug",
         "code"
       ]
+    },
+    {
+      "login": "rachelanchan",
+      "name": "Rachel Anchan",
+      "avatar_url": "https://avatars.githubusercontent.com/u/66233783?v=4",
+      "profile": "https://rachelanchan.github.io/",
+      "contributions": [
+        "question",
+        "bug"
+      ]
     }
   ],
   "contributorsPerLine": 7,
