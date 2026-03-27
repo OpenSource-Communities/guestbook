@@ -4103,32 +4103,11 @@
       ]
     },
     {
-<<<<<<< HEAD
-=======
-      "login": "Rachel",
-      "name": "rachel",
-      "avatar_url": "https://avatars.githubusercontent.com/u/97588?v=4",
-      "profile": "https://github.com/Rachel",
-      "contributions": [
-        "question",
-        "bug",
-        "code"
-      ]
-    },
-    {
->>>>>>> 262faac (docs: add @rachelanchan as a contributor)
       "login": "rachelanchan",
       "name": "Rachel Anchan",
       "avatar_url": "https://avatars.githubusercontent.com/u/66233783?v=4",
       "profile": "https://rachelanchan.github.io/",
-<<<<<<< HEAD
       "contributions": ["question", "bug"]
-=======
-      "contributions": [
-        "question",
-        "bug"
-      ]
->>>>>>> 262faac (docs: add @rachelanchan as a contributor)
     }
   ],
   "contributorsPerLine": 7,
