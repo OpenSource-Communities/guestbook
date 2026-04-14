@@ -26,8 +26,6 @@ All contributors are required to abide by our [Code of Conduct](https://github.c
 
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
 
-[![All Contributors](https://img.shields.io/badge/all_contributors-347-orange.svg?style=flat-square)](#contributors-)
-
 [![All Contributors](https://img.shields.io/badge/all_contributors-346-orange.svg?style=flat-square)](#contributors-)
 
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
