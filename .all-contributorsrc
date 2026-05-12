@@ -4943,6 +4943,17 @@
       "contributions": [
         "code"
       ]
+    },
+    {
+      "login": "zeroskilldev",
+      "name": "Krish Mewari",
+      "avatar_url": "https://avatars.githubusercontent.com/u/185427439?v=4",
+      "profile": "https://github.com/zeroskilldev",
+      "contributions": [
+        "a11y",
+        "question",
+        "code"
+      ]
     }
   ],
   "contributorsPerLine": 7,
