@@ -2,7 +2,7 @@
 
 **Welcome to the Guestbook Repository!**
 
-This guestbook is a place for people who have taken the [Intro to Open Source course](https://opensauced.pizza/learn/intro-to-oss/) to take their first steps into contributing to open source.
+This guestbook is a place for people who have taken the [Intro to Open Source course](https://learn.osscommunities.com/intro-to-oss/) to take their first steps into contributing to open source.
 
 ## Getting Started
 
