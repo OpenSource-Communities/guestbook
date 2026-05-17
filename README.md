@@ -25,7 +25,7 @@ All contributors are required to abide by our [Code of Conduct](https://github.c
 ## All Contributors
 
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-348-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-349-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 ## ✨ Contributors
@@ -484,6 +484,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/julianandresdev"><img src="https://avatars.githubusercontent.com/u/99619983?v=4?s=100" width="100px;" alt="Julian Andres"/><br /><sub><b>Julian Andres</b></sub></a><br /><a href="#question-julianandresdev" title="Answering Questions">💬</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/anubhavbaghel"><img src="https://avatars.githubusercontent.com/u/246964169?v=4?s=100" width="100px;" alt="ANUBHAV BAGHEL"/><br /><sub><b>ANUBHAV BAGHEL</b></sub></a><br /><a href="https://github.com/OpenSource-Community/guestbook/commits?author=anubhavbaghel" title="Code">💻</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/OdaloV"><img src="https://avatars.githubusercontent.com/u/147773886?v=4?s=100" width="100px;" alt="Victoria Odalo"/><br /><sub><b>Victoria Odalo</b></sub></a><br /><a href="https://github.com/OpenSource-Community/guestbook/commits?author=OdaloV" title="Code">💻</a> <a href="https://github.com/OpenSource-Community/guestbook/commits?author=OdaloV" title="Documentation">📖</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/ABHIRAM3046"><img src="https://avatars.githubusercontent.com/u/123654476?v=4?s=100" width="100px;" alt="Abhiram Varma"/><br /><sub><b>Abhiram Varma</b></sub></a><br /><a href="https://github.com/OpenSource-Community/guestbook/commits?author=ABHIRAM3046" title="Code">💻</a> <a href="https://github.com/OpenSource-Community/guestbook/commits?author=ABHIRAM3046" title="Documentation">📖</a></td>
     </tr>
   </tbody>
   <tfoot>
