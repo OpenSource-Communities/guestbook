@@ -4943,6 +4943,16 @@
       "contributions": [
         "code"
       ]
+    },
+    {
+      "login": "OdaloV",
+      "name": "Victoria Odalo",
+      "avatar_url": "https://avatars.githubusercontent.com/u/147773886?v=4",
+      "profile": "https://github.com/OdaloV",
+      "contributions": [
+        "code",
+        "doc"
+      ]
     }
   ],
   "contributorsPerLine": 7,
