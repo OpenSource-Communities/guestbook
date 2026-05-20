@@ -101,12 +101,33 @@ jobs:
 
               # Add contributor
               echo "Adding contributor: $name (@$github_username)"
-              
-              if [ -n "$profile" ] && [ "$profile" != "null" ] && [ "$profile" != "" ]; then
-                npx all-contributors add "$github_username" "$contributions" --url "$profile" --name "$name"
-              else
-                npx all-contributors add "$github_username" "$contributions" --name "$name"
-              fi
+              # Add contributor directly to .all-contributorsrc
+                            python3 -c "
+                            import json, sys
+
+                            rc_file = '.all-contributorsrc'
+                            with open(rc_file) as f:
+                                rc = json.load(f)
+
+                                username = '$github_username'
+                                contributions = '$contributions'.split(',')
+                                existing = next((c for c in rc['contributors'] if c['login'] == username), None)
+
+                                if not existing:
+                                    contributor = {
+                                            'login': username,
+                                                    'name': '$name',
+                                                            'avatar_url': 'https://avatars.githubusercontent.com/' + username,
+                                                                    'profile': '$profile' if '$profile' not in ('', 'null') else 'https://github.com/' + username,
+                                                                            'contributions': contributions
+                                                                                }
+                                                                                    rc['contributors'].append(contributor)
+                                                                                        with open(rc_file, 'w') as f:
+                                                                                                json.dump(rc, f, indent=2)
+                                                                                                    print('Added contributor: ' + username)
+                                                                                                    else:
+                                                                                                        print('Contributor already exists: ' + username)
+                                                                                                        "
               
               processed=$((processed + 1))
             fi
