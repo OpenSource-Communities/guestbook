@@ -19,13 +19,13 @@
 - [ ] I filled in all required fields: `name`, `github`, `contributions`, `profile`
 - [ ] I only added ONE file (my contributor JSON file)
 - [ ] My JSON file is valid (no syntax errors)
-- [ ] I'm completing the [Intro to Open Source course](https://opensauced.pizza/learn/intro-to-oss/)
+- [ ] I'm taking the Intro to Open Source course
 
 ### About Me
-**Name:** 
-**Location (optional):** 
-**What I'm learning:** 
-**Fun fact:** 
+- **Name:**
+- **Location (optional):**
+- **What I'm learning:**
+- **Fun fact:**
 
 ---
 
