@@ -20,7 +20,7 @@ Contributions are always welcome, no matter how large or small. Before you begin
 - Issues with the `needs triage` label are unavailable until they are triaged and the label is removed. Feel free to check on the issue regularly if you want to work on it.
 - If you wish to work on an open issue, you can comment on it and tag the maintainers. Please refrain from working on an issue before it's assigned to you.
 
-In case you get stuck, feel free to ask for help in the [discussion](https://github.com/Virtual-Coffee/guestbook/discussions/categories/q-a).
+In case you get stuck, feel free to ask for help in the [discussion](https://github.com/OpenSource-Communities/guestbook/discussions).
 
 ## Getting Started
 
