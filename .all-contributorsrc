@@ -4963,6 +4963,20 @@
         "code",
         "doc"
       ]
+    },
+    {
+      "login": "zhanglaura1",
+      "name": "Laura Zhang",
+      "avatar_url": "https://avatars.githubusercontent.com/u/173205308?v=4",
+      "profile": "https://github.com/zhanglaura1",
+      "contributions": [
+        "bug",
+        "business",
+        "code",
+        "data",
+        "doc",
+        "test"
+      ]
     }
   ],
   "contributorsPerLine": 7,
