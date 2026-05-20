@@ -102,15 +102,14 @@ jobs:
                         
                         Once this PR is merged:
                         - ✅ You'll be automatically added to the contributors list in the README
-                        - 🎓 You can continue with the next step in the [Intro to Open Source course](https://opensauced.pizza/learn/intro-to-oss/)
-                        - 🌟 Consider creating a [highlight](https://app.opensauced.pizza/feed) of your contribution!
+                        - 🎓 Continue your open source journey and keep contributing!
                         
                         **What happens next?**
                         - A maintainer will review your PR
                         - After merge, a GitHub Action will automatically update the README
                         - You'll see your profile appear in the contributors section!
                         
-                        Thanks for being part of the open source community! 🚀`;
+                        Thanks for being part of the OpenSource-Communities! 🚀`;
                         
                         github.rest.issues.createComment({
                           issue_number: context.issue.number,
