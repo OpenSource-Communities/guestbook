@@ -102,10 +102,9 @@ The icons represent your contribution types:
 ## Next Steps from the Course
 
 After your profile appears:
-1. 🌟 **Create a highlight** of your contribution on [OpenSauced](https://app.opensauced.pizza/feed)
-2. 🎓 **Continue the course**: [The Secret Sauce](https://opensauced.pizza/learn/intro-to-oss/the-secret-sauce)
-3. 🍕 **Make more contributions**: Check out [pizza-verse](https://github.com/OpenSource-Communities/pizza-verse)
-
+1. 🎓 **Continue your journey**: Keep contributing to open source projects!
+2. 🍕 **Make more contributions**: Check out [pizza-verse](https://github.com/OpenSource-Communities/pizza-verse)
+3. 
 ---
 
 **🎉 Welcome to the open source community!** Your first contribution is a big milestone - celebrate it! 🚀
