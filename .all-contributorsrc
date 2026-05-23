@@ -4945,14 +4945,37 @@
       ]
     },
     {
-      "login": "Dearxinxin",
-      "name": "Dearxinxin",
-      "avatar_url": "https://avatars.githubusercontent.com/u/32278040?v=4",
-      "profile": "https://github.com/Dearxinxin",
+      "login": "OdaloV",
+      "name": "Victoria Odalo",
+      "avatar_url": "https://avatars.githubusercontent.com/u/147773886?v=4",
+      "profile": "https://github.com/OdaloV",
+      "contributions": [
+        "code",
+        "doc"
+      ]
+    },
+    {
+      "login": "ABHIRAM3046",
+      "name": "Abhiram Varma",
+      "avatar_url": "https://avatars.githubusercontent.com/u/123654476?v=4",
+      "profile": "https://github.com/ABHIRAM3046",
+      "contributions": [
+        "code",
+        "doc"
+      ]
+    },
+    {
+      "login": "zhanglaura1",
+      "name": "Laura Zhang",
+      "avatar_url": "https://avatars.githubusercontent.com/u/173205308?v=4",
+      "profile": "https://github.com/zhanglaura1",
       "contributions": [
         "bug",
-        "content",
-        "doc"
+        "business",
+        "code",
+        "data",
+        "doc",
+        "test"
       ]
     }
   ],
