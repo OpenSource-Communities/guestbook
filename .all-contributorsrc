@@ -4943,6 +4943,17 @@
       "contributions": [
         "code"
       ]
+    },
+    {
+      "login": "Dearxinxin",
+      "name": "Dearxinxin",
+      "avatar_url": "https://avatars.githubusercontent.com/u/32278040?v=4",
+      "profile": "https://github.com/Dearxinxin",
+      "contributions": [
+        "bug",
+        "content",
+        "doc"
+      ]
     }
   ],
   "contributorsPerLine": 7,
