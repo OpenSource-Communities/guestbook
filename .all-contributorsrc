@@ -4987,6 +4987,16 @@
         "question",
         "bug"
       ]
+    },
+    {
+      "login": "CANDRA2006",
+      "name": "Candra",
+      "avatar_url": "https://avatars.githubusercontent.com/u/185038257?v=4",
+      "profile": "https://github.com/CANDRA2006",
+      "contributions": [
+        "code",
+        "doc"
+      ]
     }
   ],
   "contributorsPerLine": 7,
