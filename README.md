@@ -6,11 +6,42 @@ This guestbook is a place for people who have taken the [Intro to Open Source co
 
 ## Getting Started
 
-For complete instructions on how to add yourself to this guestbook, please head to the "[Let's Get Practical](https://opensauced.pizza/learn/intro-to-oss/how-to-contribute-to-open-source#lets-get-practical)" section in the Intro to Open Source course.
+**🎉 New simplified process - no more merge conflicts!**
 
-## Resolving Merge Conflicts
+Instead of editing this README directly, you now add yourself by creating a single JSON file. This prevents merge conflicts when multiple people contribute simultaneously.
 
-If you encounter merge conflicts while contributing to this repository, read the Intro to Open Source course's "[Merge Conflicts in the Guestbook Repository](https://opensauced.pizza/learn/intro-to-oss/how-to-contribute-to-open-source#merge-conflicts-in-the-guestbook-repository)" section.
+### Quick Start
+1. Fork and clone this repository
+2. Run `npm install` to install dependencies
+3. Go to the [`contributors/`](contributors/) directory
+4. Create a file named `your-github-username.json`
+5. Fill it with your information (see template below)
+6. Test your contribution: `npm run contributors:preview your-github-username`
+7. Submit your PR with just that one file!
+
+### Template
+```json
+{
+  "name": "Your Full Name",
+  "github": "your-github-username",
+  "profile": "https://your-website.com",
+  "contributions": ["code", "doc", "ideas"]
+}
+```
+
+**Note:** The `profile` field should be your personal website URL or your GitHub profile URL (https://github.com/your-username)
+
+📖 **For detailed instructions, see: [docs/guides/contributor-guide.md](docs/guides/contributor-guide.md)**
+
+> **Note**: The contributors table below is automatically updated when your PR is merged. No need to edit it manually!
+> 
+> 🧪 **Want to test if it worked?** See: [docs/guides/testing-your-contribution.md](docs/guides/testing-your-contribution.md)
+
+## No More Merge Conflicts!
+
+🎉 **Good news!** The new contributor system eliminates merge conflicts entirely. Each contributor creates their own unique file, so multiple people can contribute simultaneously without conflicts.
+
+If you still encounter issues, check out the [Migration Guide](docs/MIGRATION_GUIDE.md) or ask for help in [GitHub Discussions](../../discussions).
 
 ## What's Next?
 

@@ -6,7 +6,11 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "contributors:generate": "all-contributors generate",
-    "contributors:add": "all-contributors add"
+    "contributors:add": "all-contributors add",
+    "contributors:validate": "node scripts/validate-contributor.js",
+    "contributors:migrate": "./scripts/migrate-contributors.sh",
+    "contributors:test": "node scripts/test-locally.js",
+    "contributors:preview": "node scripts/preview-contribution.js"
   },
   "keywords": [],
   "author": "",
