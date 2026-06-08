@@ -5006,6 +5006,16 @@
       "contributions": [
         "question"
       ]
+    },
+    {
+      "login": "jkhush04",
+      "name": "Khushi Jain",
+      "avatar_url": "https://avatars.githubusercontent.com/u/185188671?v=4",
+      "profile": "https://github.com/jkhush04",
+      "contributions": [
+        "question",
+        "bug"
+      ]
     }
   ],
   "contributorsPerLine": 7,
