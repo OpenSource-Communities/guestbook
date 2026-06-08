@@ -4997,6 +4997,15 @@
         "question",
         "bug"
       ]
+    },
+    {
+      "login": "khushi",
+      "name": "khushi",
+      "avatar_url": "https://avatars.githubusercontent.com/u/363548?v=4",
+      "profile": "https://github.com/khushi",
+      "contributions": [
+        "question"
+      ]
     }
   ],
   "contributorsPerLine": 7,
