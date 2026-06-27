@@ -5026,6 +5026,16 @@
         "question",
         "bug"
       ]
+    },
+    {
+      "login": "Atharv012",
+      "name": "Quadquor At",
+      "avatar_url": "https://avatars.githubusercontent.com/u/99088111?v=4",
+      "profile": "https://github.com/Atharv012",
+      "contributions": [
+        "code",
+        "doc"
+      ]
     }
   ],
   "contributorsPerLine": 7,
