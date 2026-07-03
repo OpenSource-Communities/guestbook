@@ -2,7 +2,7 @@
 
 **Welcome to the Guestbook Repository!**
 
-This guestbook is a place for people who have taken the [Intro to Open Source course](https://opensauced.pizza/learn/intro-to-oss/) to take their first steps into contributing to open source.
+This guestbook is a place for people who have taken the [Intro to Open Source course](https://learn.osscommunities.com/intro-to-oss/) to take their first steps into contributing to open source.
 
 ## Getting Started
 
@@ -25,7 +25,7 @@ All contributors are required to abide by our [Code of Conduct](https://github.c
 ## All Contributors
 
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-348-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-356-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 ## ✨ Contributors
@@ -484,6 +484,17 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/ArunKumar235"><img src="https://avatars.githubusercontent.com/u/134846056?v=4?s=100" width="100px;" alt="Arun Kumar M"/><br /><sub><b>Arun Kumar M</b></sub></a><br /><a href="#a11y-ArunKumar235" title="Accessibility">️️️️♿️</a> <a href="#question-ArunKumar235" title="Answering Questions">💬</a> <a href="https://github.com/OpenSource-Community/guestbook/commits?author=ArunKumar235" title="Code">💻</a> <a href="https://github.com/OpenSource-Community/guestbook/commits?author=ArunKumar235" title="Documentation">📖</a> <a href="#ideas-ArunKumar235" title="Ideas, Planning, & Feedback">🤔</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/julianandresdev"><img src="https://avatars.githubusercontent.com/u/99619983?v=4?s=100" width="100px;" alt="Julian Andres"/><br /><sub><b>Julian Andres</b></sub></a><br /><a href="#question-julianandresdev" title="Answering Questions">💬</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/anubhavbaghel"><img src="https://avatars.githubusercontent.com/u/246964169?v=4?s=100" width="100px;" alt="ANUBHAV BAGHEL"/><br /><sub><b>ANUBHAV BAGHEL</b></sub></a><br /><a href="https://github.com/OpenSource-Community/guestbook/commits?author=anubhavbaghel" title="Code">💻</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/OdaloV"><img src="https://avatars.githubusercontent.com/u/147773886?v=4?s=100" width="100px;" alt="Victoria Odalo"/><br /><sub><b>Victoria Odalo</b></sub></a><br /><a href="https://github.com/OpenSource-Community/guestbook/commits?author=OdaloV" title="Code">💻</a> <a href="https://github.com/OpenSource-Community/guestbook/commits?author=OdaloV" title="Documentation">📖</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/ABHIRAM3046"><img src="https://avatars.githubusercontent.com/u/123654476?v=4?s=100" width="100px;" alt="Abhiram Varma"/><br /><sub><b>Abhiram Varma</b></sub></a><br /><a href="https://github.com/OpenSource-Community/guestbook/commits?author=ABHIRAM3046" title="Code">💻</a> <a href="https://github.com/OpenSource-Community/guestbook/commits?author=ABHIRAM3046" title="Documentation">📖</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/zhanglaura1"><img src="https://avatars.githubusercontent.com/u/173205308?v=4?s=100" width="100px;" alt="Laura Zhang"/><br /><sub><b>Laura Zhang</b></sub></a><br /><a href="https://github.com/OpenSource-Community/guestbook/issues?q=author%3Azhanglaura1" title="Bug reports">🐛</a> <a href="#business-zhanglaura1" title="Business development">💼</a> <a href="https://github.com/OpenSource-Community/guestbook/commits?author=zhanglaura1" title="Code">💻</a> <a href="#data-zhanglaura1" title="Data">🔣</a> <a href="https://github.com/OpenSource-Community/guestbook/commits?author=zhanglaura1" title="Documentation">📖</a> <a href="https://github.com/OpenSource-Community/guestbook/commits?author=zhanglaura1" title="Tests">⚠️</a></td>
+    </tr>
+    <tr>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/davidpinacus"><img src="https://avatars.githubusercontent.com/u/235371191?v=4?s=100" width="100px;" alt="David Pinacus"/><br /><sub><b>David Pinacus</b></sub></a><br /><a href="#question-davidpinacus" title="Answering Questions">💬</a> <a href="https://github.com/OpenSource-Community/guestbook/issues?q=author%3Adavidpinacus" title="Bug reports">🐛</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/Rudra-RNC"><img src="https://avatars.githubusercontent.com/u/184390233?v=4?s=100" width="100px;" alt="Rudra Kumar"/><br /><sub><b>Rudra Kumar</b></sub></a><br /><a href="#question-Rudra-RNC" title="Answering Questions">💬</a> <a href="https://github.com/OpenSource-Community/guestbook/issues?q=author%3ARudra-RNC" title="Bug reports">🐛</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/khushi"><img src="https://avatars.githubusercontent.com/u/363548?v=4?s=100" width="100px;" alt="khushi"/><br /><sub><b>khushi</b></sub></a><br /><a href="#question-khushi" title="Answering Questions">💬</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/jkhush04"><img src="https://avatars.githubusercontent.com/u/185188671?v=4?s=100" width="100px;" alt="Khushi Jain"/><br /><sub><b>Khushi Jain</b></sub></a><br /><a href="#question-jkhush04" title="Answering Questions">💬</a> <a href="https://github.com/OpenSource-Community/guestbook/issues?q=author%3Ajkhush04" title="Bug reports">🐛</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/flopez0294"><img src="https://avatars.githubusercontent.com/u/112422608?v=4?s=100" width="100px;" alt="Jose Lopez"/><br /><sub><b>Jose Lopez</b></sub></a><br /><a href="#question-flopez0294" title="Answering Questions">💬</a> <a href="https://github.com/OpenSource-Community/guestbook/issues?q=author%3Aflopez0294" title="Bug reports">🐛</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/Atharv012"><img src="https://avatars.githubusercontent.com/u/99088111?v=4?s=100" width="100px;" alt="Quadquor At"/><br /><sub><b>Quadquor At</b></sub></a><br /><a href="https://github.com/OpenSource-Community/guestbook/commits?author=Atharv012" title="Code">💻</a> <a href="https://github.com/OpenSource-Community/guestbook/commits?author=Atharv012" title="Documentation">📖</a></td>
     </tr>
   </tbody>
   <tfoot>
