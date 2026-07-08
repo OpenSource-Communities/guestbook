@@ -5046,7 +5046,19 @@
         "code",
         "doc",
         "research",
-        "security"
+        "security",
+        "bug",
+        "content",
+        "example",
+        "maintenance",
+        "mentoring",
+        "promotion",
+        "review",
+        "talk",
+        "test",
+        "tool",
+        "translation",
+        "tutorial"
       ]
     }
   ],
