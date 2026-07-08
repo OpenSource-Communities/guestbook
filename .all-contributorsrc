@@ -5036,6 +5036,18 @@
         "code",
         "doc"
       ]
+    },
+    {
+      "login": "iamstanleyblack",
+      "name": "Stanley Black",
+      "avatar_url": "https://avatars.githubusercontent.com/u/230486017?v=4",
+      "profile": "https://github.com/iamstanleyblack",
+      "contributions": [
+        "code",
+        "doc",
+        "research",
+        "security"
+      ]
     }
   ],
   "contributorsPerLine": 7,
