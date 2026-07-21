@@ -6,11 +6,11 @@ This guestbook is a place for people who have taken the [Intro to Open Source co
 
 ## Getting Started
 
-For complete instructions on how to add yourself to this guestbook, please head to the "[Let's Get Practical](https://opensauced.pizza/learn/intro-to-oss/how-to-contribute-to-open-source#lets-get-practical)" section in the Intro to Open Source course.
+For complete instructions on how to add yourself to this guestbook, please head to the "[Let's Get Practical](https://learn.osscommunities.com/intro-to-oss/how-to-contribute-to-open-source#lets-get-practical)" section in the Intro to Open Source course.
 
 ## Resolving Merge Conflicts
 
-If you encounter merge conflicts while contributing to this repository, read the Intro to Open Source course's "[Merge Conflicts in the Guestbook Repository](https://opensauced.pizza/learn/intro-to-oss/how-to-contribute-to-open-source#merge-conflicts-in-the-guestbook-repository)" section.
+If you encounter merge conflicts while contributing to this repository, read the Intro to Open Source course's "[Merge Conflicts in the Guestbook Repository](https://learn.osscommunities.com/intro-to-oss/how-to-contribute-to-open-source#merge-conflicts)" section.
 
 ## What's Next?
 
