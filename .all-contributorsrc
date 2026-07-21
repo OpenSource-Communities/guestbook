@@ -4987,6 +4987,55 @@
         "question",
         "bug"
       ]
+    },
+    {
+      "login": "Rudra-RNC",
+      "name": "Rudra Kumar",
+      "avatar_url": "https://avatars.githubusercontent.com/u/184390233?v=4",
+      "profile": "https://github.com/Rudra-RNC",
+      "contributions": [
+        "question",
+        "bug"
+      ]
+    },
+    {
+      "login": "khushi",
+      "name": "khushi",
+      "avatar_url": "https://avatars.githubusercontent.com/u/363548?v=4",
+      "profile": "https://github.com/khushi",
+      "contributions": [
+        "question"
+      ]
+    },
+    {
+      "login": "jkhush04",
+      "name": "Khushi Jain",
+      "avatar_url": "https://avatars.githubusercontent.com/u/185188671?v=4",
+      "profile": "https://github.com/jkhush04",
+      "contributions": [
+        "question",
+        "bug"
+      ]
+    },
+    {
+      "login": "flopez0294",
+      "name": "Jose Lopez",
+      "avatar_url": "https://avatars.githubusercontent.com/u/112422608?v=4",
+      "profile": "https://github.com/flopez0294",
+      "contributions": [
+        "question",
+        "bug"
+      ]
+    },
+    {
+      "login": "Atharv012",
+      "name": "Quadquor At",
+      "avatar_url": "https://avatars.githubusercontent.com/u/99088111?v=4",
+      "profile": "https://github.com/Atharv012",
+      "contributions": [
+        "code",
+        "doc"
+      ]
     }
   ],
   "contributorsPerLine": 7,
