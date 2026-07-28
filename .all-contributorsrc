@@ -5047,6 +5047,21 @@
         "doc",
         "tutorial"
       ]
+    },
+    {
+      "login": "mcendon",
+      "name": "Mauro Cendon Hidalgo",
+      "avatar_url": "https://avatars.githubusercontent.com/u/7624862?v=4",
+      "profile": "http://mcendon.github.io/",
+      "contributions": [
+        "question",
+        "code",
+        "example",
+        "security",
+        "tool",
+        "translation",
+        "tutorial"
+      ]
     }
   ],
   "contributorsPerLine": 7,
