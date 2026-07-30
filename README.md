@@ -25,7 +25,7 @@ All contributors are required to abide by our [Code of Conduct](https://github.c
 ## All Contributors
 
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-358-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-359-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 ## ✨ Contributors
@@ -498,6 +498,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
     </tr>
     <tr>
       <td align="center" valign="top" width="14.28%"><a href="http://mcendon.github.io/"><img src="https://avatars.githubusercontent.com/u/7624862?v=4?s=100" width="100px;" alt="Mauro Cendon Hidalgo"/><br /><sub><b>Mauro Cendon Hidalgo</b></sub></a><br /><a href="#question-mcendon" title="Answering Questions">💬</a> <a href="https://github.com/OpenSource-Community/guestbook/commits?author=mcendon" title="Code">💻</a> <a href="#example-mcendon" title="Examples">💡</a> <a href="#security-mcendon" title="Security">🛡️</a> <a href="#tool-mcendon" title="Tools">🔧</a> <a href="#translation-mcendon" title="Translation">🌍</a> <a href="#tutorial-mcendon" title="Tutorials">✅</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/alexandrebayanza-maker"><img src="https://avatars.githubusercontent.com/u/231569356?v=4?s=100" width="100px;" alt="Alexandre Bayanza"/><br /><sub><b>Alexandre Bayanza</b></sub></a><br /><a href="#audio-alexandrebayanza-maker" title="Audio">🔊</a> <a href="https://github.com/OpenSource-Community/guestbook/commits?author=alexandrebayanza-maker" title="Code">💻</a> <a href="#content-alexandrebayanza-maker" title="Content">🖋</a> <a href="#design-alexandrebayanza-maker" title="Design">🎨</a> <a href="https://github.com/OpenSource-Community/guestbook/commits?author=alexandrebayanza-maker" title="Documentation">📖</a> <a href="#example-alexandrebayanza-maker" title="Examples">💡</a> <a href="#ideas-alexandrebayanza-maker" title="Ideas, Planning, & Feedback">🤔</a> <a href="#maintenance-alexandrebayanza-maker" title="Maintenance">🚧</a> <a href="#research-alexandrebayanza-maker" title="Research">🔬</a> <a href="#talk-alexandrebayanza-maker" title="Talks">📢</a> <a href="https://github.com/OpenSource-Community/guestbook/commits?author=alexandrebayanza-maker" title="Tests">⚠️</a> <a href="#tool-alexandrebayanza-maker" title="Tools">🔧</a> <a href="#translation-alexandrebayanza-maker" title="Translation">🌍</a> <a href="#userTesting-alexandrebayanza-maker" title="User Testing">📓</a> <a href="#video-alexandrebayanza-maker" title="Videos">📹</a></td>
     </tr>
   </tbody>
   <tfoot>
