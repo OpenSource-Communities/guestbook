@@ -5122,6 +5122,20 @@
       "contributions": [
         "content"
       ]
+    },
+    {
+      "login": "Farhat-004",
+      "name": "Farhatul Hassan",
+      "avatar_url": "https://avatars.githubusercontent.com/u/175207575?v=4",
+      "profile": "https://github.com/Farhat-004",
+      "contributions": [
+        "code",
+        "doc",
+        "example",
+        "platform",
+        "talk",
+        "test"
+      ]
     }
   ],
   "contributorsPerLine": 7,
