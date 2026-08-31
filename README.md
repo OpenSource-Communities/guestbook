@@ -25,7 +25,7 @@ All contributors are required to abide by our [Code of Conduct](https://github.c
 ## All Contributors
 
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-364-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-365-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 ## ✨ Contributors
@@ -505,6 +505,9 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/Abhishekpandey123-git"><img src="https://avatars.githubusercontent.com/u/226355248?v=4?s=100" width="100px;" alt="Abhishek Pandey"/><br /><sub><b>Abhishek Pandey</b></sub></a><br /><a href="#content-Abhishekpandey123-git" title="Content">🖋</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/iftekharalamfahim"><img src="https://avatars.githubusercontent.com/u/169484127?v=4?s=100" width="100px;" alt="brainsect"/><br /><sub><b>brainsect</b></sub></a><br /><a href="#question-iftekharalamfahim" title="Answering Questions">💬</a> <a href="https://github.com/OpenSource-Community/guestbook/issues?q=author%3Aiftekharalamfahim" title="Bug reports">🐛</a> <a href="https://github.com/OpenSource-Community/guestbook/commits?author=iftekharalamfahim" title="Code">💻</a> <a href="https://github.com/OpenSource-Community/guestbook/commits?author=iftekharalamfahim" title="Documentation">📖</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/Farhat-004"><img src="https://avatars.githubusercontent.com/u/175207575?v=4?s=100" width="100px;" alt="Farhatul Hassan"/><br /><sub><b>Farhatul Hassan</b></sub></a><br /><a href="https://github.com/OpenSource-Community/guestbook/commits?author=Farhat-004" title="Code">💻</a> <a href="https://github.com/OpenSource-Community/guestbook/commits?author=Farhat-004" title="Documentation">📖</a> <a href="#example-Farhat-004" title="Examples">💡</a> <a href="#platform-Farhat-004" title="Packaging/porting to new platform">📦</a> <a href="#talk-Farhat-004" title="Talks">📢</a> <a href="https://github.com/OpenSource-Community/guestbook/commits?author=Farhat-004" title="Tests">⚠️</a></td>
+    </tr>
+    <tr>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/RajendharAre"><img src="https://avatars.githubusercontent.com/u/148761959?v=4?s=100" width="100px;" alt="RajendharAre"/><br /><sub><b>RajendharAre</b></sub></a><br /><a href="https://github.com/OpenSource-Community/guestbook/issues?q=author%3ARajendharAre" title="Bug reports">🐛</a> <a href="https://github.com/OpenSource-Community/guestbook/commits?author=RajendharAre" title="Code">💻</a> <a href="https://github.com/OpenSource-Community/guestbook/commits?author=RajendharAre" title="Documentation">📖</a> <a href="#ideas-RajendharAre" title="Ideas, Planning, & Feedback">🤔</a> <a href="https://github.com/OpenSource-Community/guestbook/commits?author=RajendharAre" title="Tests">⚠️</a></td>
     </tr>
   </tbody>
   <tfoot>

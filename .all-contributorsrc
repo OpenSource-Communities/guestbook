@@ -5148,6 +5148,19 @@
         "talk",
         "test"
       ]
+    },
+    {
+      "login": "RajendharAre",
+      "name": "RajendharAre",
+      "avatar_url": "https://avatars.githubusercontent.com/u/148761959?v=4",
+      "profile": "https://github.com/RajendharAre",
+      "contributions": [
+        "bug",
+        "code",
+        "doc",
+        "ideas",
+        "test"
+      ]
     }
   ],
   "contributorsPerLine": 7,
