@@ -5163,6 +5163,17 @@
         "tutorial",
         "userTesting"
       ]
+    },
+    {
+      "login": "FaizHarofi",
+      "name": "Fairuz Dzikri Harofi",
+      "avatar_url": "https://avatars.githubusercontent.com/u/110177729?v=4",
+      "profile": "https://github.com/FaizHarofi",
+      "contributions": [
+        "question",
+        "bug",
+        "doc"
+      ]
     }
   ],
   "contributorsPerLine": 7,
