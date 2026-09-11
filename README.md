@@ -25,7 +25,7 @@ All contributors are required to abide by our [Code of Conduct](https://github.c
 ## All Contributors
 
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-367-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-366-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 ## ✨ Contributors
@@ -507,7 +507,6 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
     </tr>
     <tr>
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/RajendharAre"><img src="https://avatars.githubusercontent.com/u/148761959?v=4?s=100" width="100px;" alt="RajendharAre"/><br /><sub><b>RajendharAre</b></sub></a><br /><a href="https://github.com/OpenSource-Community/guestbook/issues?q=author%3ARajendharAre" title="Bug reports">🐛</a> <a href="https://github.com/OpenSource-Community/guestbook/commits?author=RajendharAre" title="Code">💻</a> <a href="https://github.com/OpenSource-Community/guestbook/commits?author=RajendharAre" title="Documentation">📖</a> <a href="#ideas-RajendharAre" title="Ideas, Planning, & Feedback">🤔</a> <a href="https://github.com/OpenSource-Community/guestbook/commits?author=RajendharAre" title="Tests">⚠️</a></td>
-      <td align="center" valign="top" width="14.28%"><a href="https://github.com/ZraVanilla"><img src="https://avatars.githubusercontent.com/u/187104551?v=4?s=100" width="100px;" alt="Zra Vanilla"/><br /><sub><b>Zra Vanilla</b></sub></a><br /><a href="#question-ZraVanilla" title="Answering Questions">💬</a> <a href="#blog-ZraVanilla" title="Blogposts">📝</a> <a href="https://github.com/OpenSource-Community/guestbook/issues?q=author%3AZraVanilla" title="Bug reports">🐛</a> <a href="#business-ZraVanilla" title="Business development">💼</a> <a href="#tutorial-ZraVanilla" title="Tutorials">✅</a> <a href="#userTesting-ZraVanilla" title="User Testing">📓</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/FaizHarofi"><img src="https://avatars.githubusercontent.com/u/110177729?v=4?s=100" width="100px;" alt="Fairuz Dzikri Harofi"/><br /><sub><b>Fairuz Dzikri Harofi</b></sub></a><br /><a href="#question-FaizHarofi" title="Answering Questions">💬</a> <a href="https://github.com/OpenSource-Community/guestbook/issues?q=author%3AFaizHarofi" title="Bug reports">🐛</a> <a href="https://github.com/OpenSource-Community/guestbook/commits?author=FaizHarofi" title="Documentation">📖</a></td>
     </tr>
   </tbody>
