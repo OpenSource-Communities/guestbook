@@ -5149,6 +5149,20 @@
         "ideas",
         "test"
       ]
+    },
+    {
+      "login": "ZraVanilla",
+      "name": "Zra Vanilla",
+      "avatar_url": "https://avatars.githubusercontent.com/u/187104551?v=4",
+      "profile": "https://github.com/ZraVanilla",
+      "contributions": [
+        "question",
+        "blog",
+        "bug",
+        "business",
+        "tutorial",
+        "userTesting"
+      ]
     }
   ],
   "contributorsPerLine": 7,
