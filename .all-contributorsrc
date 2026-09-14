@@ -5149,6 +5149,17 @@
         "ideas",
         "test"
       ]
+    },
+    {
+      "login": "LeslyDTech",
+      "name": "LeslyDTech",
+      "avatar_url": "https://avatars.githubusercontent.com/u/236714628?v=4",
+      "profile": "https://lesly-xi.vercel.app/",
+      "contributions": [
+        "code",
+        "question",
+        "bug"
+      ]
     }
   ],
   "contributorsPerLine": 7,
