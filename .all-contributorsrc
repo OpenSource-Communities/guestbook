@@ -5158,7 +5158,9 @@
       "contributions": [
         "code",
         "design",
-        "doc"
+        "doc",
+        "content",
+        "data"
       ]
     }
   ],
