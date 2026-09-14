@@ -5149,6 +5149,17 @@
         "ideas",
         "test"
       ]
+    },
+    {
+      "login": "Amruthkrishna",
+      "name": "Amruth Krishna",
+      "avatar_url": "https://avatars.githubusercontent.com/u/122215165?v=4",
+      "profile": "https://github.com/Amruthkrishna",
+      "contributions": [
+        "code",
+        "design",
+        "doc"
+      ]
     }
   ],
   "contributorsPerLine": 7,
