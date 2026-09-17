@@ -5150,7 +5150,16 @@
         "test"
       ]
     },
-    
+    {
+      "login": "LauriFF",
+      "name": "Lauri Forss",
+      "avatar_url": "https://avatars.githubusercontent.com/u/43409571?v=4",
+      "profile": "https://github.com/LauriFF",
+      "contributions": [
+        "example",
+        "ideas"
+      ]
+    },
     {
       "login": "Amruthkrishna",
       "name": "Amruth Krishna",
@@ -5162,13 +5171,6 @@
         "doc",
         "content",
         "data"
-      "login": "LauriFF",
-      "name": "Lauri Forss",
-      "avatar_url": "https://avatars.githubusercontent.com/u/43409571?v=4",
-      "profile": "https://github.com/LauriFF",
-      "contributions": [
-        "example",
-        "ideas"
       ]
     }
   ],
