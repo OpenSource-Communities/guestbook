@@ -5170,7 +5170,9 @@
         "design",
         "doc",
         "content",
-        "data"
+        "data",
+        "a11y",
+        "question"
       ]
     }
   ],
