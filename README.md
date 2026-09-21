@@ -25,7 +25,7 @@ All contributors are required to abide by our [Code of Conduct](https://github.c
 ## All Contributors
 
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-372-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-373-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 ## ✨ Contributors
@@ -516,6 +516,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
     </tr>
     <tr>
       <td align="center" valign="top" width="14.28%"><a href="https://rachelanchan.github.io/"><img src="https://avatars.githubusercontent.com/u/66233783?v=4?s=100" width="100px;" alt="Rachel Anchan"/><br /><sub><b>Rachel Anchan</b></sub></a><br /><a href="#question-rachelanchan" title="Answering Questions">💬</a> <a href="https://github.com/OpenSource-Community/guestbook/issues?q=author%3Arachelanchan" title="Bug reports">🐛</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/iamstanleyblack"><img src="https://avatars.githubusercontent.com/u/230486017?v=4?s=100" width="100px;" alt="Stanley Black"/><br /><sub><b>Stanley Black</b></sub></a><br /><a href="https://github.com/OpenSource-Community/guestbook/commits?author=iamstanleyblack" title="Code">💻</a> <a href="https://github.com/OpenSource-Community/guestbook/commits?author=iamstanleyblack" title="Documentation">📖</a> <a href="#research-iamstanleyblack" title="Research">🔬</a> <a href="#security-iamstanleyblack" title="Security">🛡️</a> <a href="https://github.com/OpenSource-Community/guestbook/issues?q=author%3Aiamstanleyblack" title="Bug reports">🐛</a> <a href="#content-iamstanleyblack" title="Content">🖋</a> <a href="#example-iamstanleyblack" title="Examples">💡</a> <a href="#maintenance-iamstanleyblack" title="Maintenance">🚧</a> <a href="#mentoring-iamstanleyblack" title="Mentoring">🧑‍🏫</a> <a href="#promotion-iamstanleyblack" title="Promotion">📣</a> <a href="https://github.com/OpenSource-Community/guestbook/pulls?q=is%3Apr+reviewed-by%3Aiamstanleyblack" title="Reviewed Pull Requests">👀</a> <a href="#talk-iamstanleyblack" title="Talks">📢</a> <a href="https://github.com/OpenSource-Community/guestbook/commits?author=iamstanleyblack" title="Tests">⚠️</a> <a href="#tool-iamstanleyblack" title="Tools">🔧</a> <a href="#translation-iamstanleyblack" title="Translation">🌍</a> <a href="#tutorial-iamstanleyblack" title="Tutorials">✅</a></td>
     </tr>
   </tbody>
   <tfoot>
