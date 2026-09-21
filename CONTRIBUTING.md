@@ -1,6 +1,6 @@
 # Contributing Guidelines
 
-This repository is part of the [Intro to Open Source course](https://opensauced.pizza/learn/intro-to-oss/). We recommend you to take and complete the course before you contribute to this repository.
+This repository is part of the [Intro to Open Source course](https://learn.osscommunities.com/intro-to-oss/). We recommend you to take and complete the course before you contribute to this repository.
 
 Contributions are always welcome, no matter how large or small. Before you begin, please read our [Code of Conduct](https://github.com/OpenSource-Communities/.github/blob/main/CODE_OF_CONDUCT.md) and follow the directions below:
 
@@ -20,4 +20,4 @@ In case you get stuck, feel free to ask for help in the [discussion](https://git
 
 ## Getting Started
 
-Please follow the [Let's Get Practical](https://opensauced.pizza/learn/intro-to-oss/how-to-contribute-to-open-source#lets-get-practical) section of the [Intro to Open Source course](https://opensauced.pizza/learn/intro-to-oss/) to add yourself to the guestbook.
+Please follow the [Let's Get Practical](https://learn.osscommunities.com/intro-to-oss/how-to-contribute-to-open-source#lets-get-practical) section of the [Intro to Open Source course](https://learn.osscommunities.com/intro-to-oss/) to add yourself to the guestbook.
