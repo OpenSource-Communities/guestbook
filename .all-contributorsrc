@@ -5283,6 +5283,16 @@
         "translation",
         "tutorial"
       ]
+    },
+    {
+      "login": "Charlesbasis",
+      "name": "Charles Valerio Howlader",
+      "avatar_url": "https://avatars.githubusercontent.com/u/22033083?v=4",
+      "profile": "https://github.com/Charlesbasis",
+      "contributions": [
+        "question",
+        "bug"
+      ]
     }
   ],
   "contributorsPerLine": 7,
