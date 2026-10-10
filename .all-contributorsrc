@@ -5302,6 +5302,21 @@
       "contributions": [
         "bug"
       ]
+    },
+    {
+      "login": "SANAPARVEEN-cmd",
+      "name": "sana parveen",
+      "avatar_url": "https://avatars.githubusercontent.com/u/230202552?v=4",
+      "profile": "https://github.com/SANAPARVEEN-cmd",
+      "contributions": [
+        "business",
+        "code",
+        "doc",
+        "maintenance",
+        "projectManagement",
+        "tool",
+        "tutorial"
+      ]
     }
   ],
   "contributorsPerLine": 7,
