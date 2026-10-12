@@ -5317,6 +5317,16 @@
         "tool",
         "tutorial"
       ]
+    },
+    {
+      "login": "shaun-tharakan",
+      "name": "shaun-tharakan",
+      "avatar_url": "https://avatars.githubusercontent.com/u/217837667?v=4",
+      "profile": "https://github.com/shaun-tharakan",
+      "contributions": [
+        "question",
+        "bug"
+      ]
     }
   ],
   "contributorsPerLine": 7,
