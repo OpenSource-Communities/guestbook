@@ -5337,6 +5337,21 @@
         "question",
         "bug"
       ]
+    },
+    {
+      "login": "basmbye08",
+      "name": "basmbye08",
+      "avatar_url": "https://avatars.githubusercontent.com/u/140445567?v=4",
+      "profile": "https://github.com/basmbye08",
+      "contributions": [
+        "question",
+        "audio",
+        "bug",
+        "business",
+        "data",
+        "projectManagement",
+        "promotion"
+      ]
     }
   ],
   "contributorsPerLine": 7,

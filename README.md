@@ -25,7 +25,7 @@ All contributors are required to abide by our [Code of Conduct](https://github.c
 ## All Contributors
 
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-379-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-380-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 ## ✨ Contributors
@@ -525,6 +525,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
     </tr>
     <tr>
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/alice"><img src="https://avatars.githubusercontent.com/u/95208?v=4?s=100" width="100px;" alt="Alice Boxhall"/><br /><sub><b>Alice Boxhall</b></sub></a><br /><a href="#question-alice" title="Answering Questions">💬</a> <a href="https://github.com/OpenSource-Community/guestbook/issues?q=author%3Aalice" title="Bug reports">🐛</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/basmbye08"><img src="https://avatars.githubusercontent.com/u/140445567?v=4?s=100" width="100px;" alt="basmbye08"/><br /><sub><b>basmbye08</b></sub></a><br /><a href="#question-basmbye08" title="Answering Questions">💬</a> <a href="#audio-basmbye08" title="Audio">🔊</a> <a href="https://github.com/OpenSource-Community/guestbook/issues?q=author%3Abasmbye08" title="Bug reports">🐛</a> <a href="#business-basmbye08" title="Business development">💼</a> <a href="#data-basmbye08" title="Data">🔣</a> <a href="#projectManagement-basmbye08" title="Project Management">📆</a> <a href="#promotion-basmbye08" title="Promotion">📣</a></td>
     </tr>
   </tbody>
   <tfoot>
