@@ -5327,6 +5327,16 @@
         "question",
         "bug"
       ]
+    },
+    {
+      "login": "alice",
+      "name": "Alice Boxhall",
+      "avatar_url": "https://avatars.githubusercontent.com/u/95208?v=4",
+      "profile": "https://github.com/alice",
+      "contributions": [
+        "question",
+        "bug"
+      ]
     }
   ],
   "contributorsPerLine": 7,
