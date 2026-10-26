@@ -5327,6 +5327,16 @@
         "question",
         "bug"
       ]
+    },
+    {
+      "login": "Aaru-11",
+      "name": "Aaru-11",
+      "avatar_url": "https://avatars.githubusercontent.com/u/150949056?v=4",
+      "profile": "https://github.com/Aaru-11",
+      "contributions": [
+        "question",
+        "bug"
+      ]
     }
   ],
   "contributorsPerLine": 7,
