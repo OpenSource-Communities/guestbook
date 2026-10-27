@@ -25,7 +25,7 @@ All contributors are required to abide by our [Code of Conduct](https://github.c
 ## All Contributors
 
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-378-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-379-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 ## ✨ Contributors
@@ -522,6 +522,9 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/Kenainy-aizen"><img src="https://avatars.githubusercontent.com/u/212337443?v=4?s=100" width="100px;" alt="RAVELOMANANA Mahasoa Kelly"/><br /><sub><b>RAVELOMANANA Mahasoa Kelly</b></sub></a><br /><a href="https://github.com/OpenSource-Community/guestbook/issues?q=author%3AKenainy-aizen" title="Bug reports">🐛</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/SANAPARVEEN-cmd"><img src="https://avatars.githubusercontent.com/u/230202552?v=4?s=100" width="100px;" alt="sana parveen"/><br /><sub><b>sana parveen</b></sub></a><br /><a href="#business-SANAPARVEEN-cmd" title="Business development">💼</a> <a href="https://github.com/OpenSource-Community/guestbook/commits?author=SANAPARVEEN-cmd" title="Code">💻</a> <a href="https://github.com/OpenSource-Community/guestbook/commits?author=SANAPARVEEN-cmd" title="Documentation">📖</a> <a href="#maintenance-SANAPARVEEN-cmd" title="Maintenance">🚧</a> <a href="#projectManagement-SANAPARVEEN-cmd" title="Project Management">📆</a> <a href="#tool-SANAPARVEEN-cmd" title="Tools">🔧</a> <a href="#tutorial-SANAPARVEEN-cmd" title="Tutorials">✅</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/shaun-tharakan"><img src="https://avatars.githubusercontent.com/u/217837667?v=4?s=100" width="100px;" alt="shaun-tharakan"/><br /><sub><b>shaun-tharakan</b></sub></a><br /><a href="#question-shaun-tharakan" title="Answering Questions">💬</a> <a href="https://github.com/OpenSource-Community/guestbook/issues?q=author%3Ashaun-tharakan" title="Bug reports">🐛</a></td>
+    </tr>
+    <tr>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/Aaru-11"><img src="https://avatars.githubusercontent.com/u/150949056?v=4?s=100" width="100px;" alt="Aaru-11"/><br /><sub><b>Aaru-11</b></sub></a><br /><a href="#question-Aaru-11" title="Answering Questions">💬</a> <a href="https://github.com/OpenSource-Community/guestbook/issues?q=author%3AAaru-11" title="Bug reports">🐛</a></td>
     </tr>
   </tbody>
   <tfoot>
