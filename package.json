@@ -12,6 +12,6 @@
   "author": "",
   "license": "ISC",
   "devDependencies": {
-    "all-contributors-cli": "^6.25.0"
+    "all-contributors-cli": "^7.0.0"
   }
 }
