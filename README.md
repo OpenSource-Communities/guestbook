@@ -25,7 +25,7 @@ All contributors are required to abide by our [Code of Conduct](https://github.c
 ## All Contributors
 
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-379-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-380-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 ## ✨ Contributors
@@ -525,6 +525,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
     </tr>
     <tr>
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/Aaru-11"><img src="https://avatars.githubusercontent.com/u/150949056?v=4?s=100" width="100px;" alt="Aaru-11"/><br /><sub><b>Aaru-11</b></sub></a><br /><a href="#question-Aaru-11" title="Answering Questions">💬</a> <a href="https://github.com/OpenSource-Community/guestbook/issues?q=author%3AAaru-11" title="Bug reports">🐛</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/inayushgupta"><img src="https://avatars.githubusercontent.com/u/245076040?v=4?s=100" width="100px;" alt="Ayush Gupta"/><br /><sub><b>Ayush Gupta</b></sub></a><br /><a href="#question-inayushgupta" title="Answering Questions">💬</a> <a href="#blog-inayushgupta" title="Blogposts">📝</a> <a href="https://github.com/OpenSource-Community/guestbook/issues?q=author%3Ainayushgupta" title="Bug reports">🐛</a> <a href="https://github.com/OpenSource-Community/guestbook/commits?author=inayushgupta" title="Code">💻</a> <a href="#data-inayushgupta" title="Data">🔣</a> <a href="https://github.com/OpenSource-Community/guestbook/commits?author=inayushgupta" title="Documentation">📖</a> <a href="#maintenance-inayushgupta" title="Maintenance">🚧</a> <a href="#mentoring-inayushgupta" title="Mentoring">🧑‍🏫</a> <a href="#platform-inayushgupta" title="Packaging/porting to new platform">📦</a> <a href="#plugin-inayushgupta" title="Plugin/utility libraries">🔌</a> <a href="#projectManagement-inayushgupta" title="Project Management">📆</a> <a href="#promotion-inayushgupta" title="Promotion">📣</a> <a href="#translation-inayushgupta" title="Translation">🌍</a> <a href="#tutorial-inayushgupta" title="Tutorials">✅</a></td>
     </tr>
   </tbody>
   <tfoot>

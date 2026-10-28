@@ -5337,6 +5337,28 @@
         "question",
         "bug"
       ]
+    },
+    {
+      "login": "inayushgupta",
+      "name": "Ayush Gupta",
+      "avatar_url": "https://avatars.githubusercontent.com/u/245076040?v=4",
+      "profile": "https://github.com/inayushgupta",
+      "contributions": [
+        "question",
+        "blog",
+        "bug",
+        "code",
+        "data",
+        "doc",
+        "maintenance",
+        "mentoring",
+        "platform",
+        "plugin",
+        "projectManagement",
+        "promotion",
+        "translation",
+        "tutorial"
+      ]
     }
   ],
   "contributorsPerLine": 7,
