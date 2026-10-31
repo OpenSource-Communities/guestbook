@@ -5343,6 +5343,38 @@
         "test",
         "userTesting"
       ]
+    },
+    {
+      "login": "Aaru-11",
+      "name": "Aaru-11",
+      "avatar_url": "https://avatars.githubusercontent.com/u/150949056?v=4",
+      "profile": "https://github.com/Aaru-11",
+      "contributions": [
+        "question",
+        "bug"
+      ]
+    },
+    {
+      "login": "inayushgupta",
+      "name": "Ayush Gupta",
+      "avatar_url": "https://avatars.githubusercontent.com/u/245076040?v=4",
+      "profile": "https://github.com/inayushgupta",
+      "contributions": [
+        "question",
+        "blog",
+        "bug",
+        "code",
+        "data",
+        "doc",
+        "maintenance",
+        "mentoring",
+        "platform",
+        "plugin",
+        "projectManagement",
+        "promotion",
+        "translation",
+        "tutorial"
+      ]
     }
   ],
   "contributorsPerLine": 7,
