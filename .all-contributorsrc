@@ -5369,6 +5369,16 @@
         "question",
         "bug"
       ]
+    },
+    {
+      "login": "ShakeyArtist",
+      "name": "Melissa Shuler",
+      "avatar_url": "https://avatars.githubusercontent.com/u/228410018?v=4",
+      "profile": "https://github.com/ShakeyArtist",
+      "contributions": [
+        "bug",
+        "code"
+      ]
     }
   ],
   "contributorsPerLine": 7,
