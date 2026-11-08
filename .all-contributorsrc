@@ -5379,6 +5379,16 @@
         "bug",
         "code"
       ]
+    },
+    { 
+        "login": "kairese",
+      "name": "Kairese White",
+      "avatar_url": "https://github.com/kairese.png",
+      "profile": "https://github.com/kairese",
+      "contributions": [
+        "code",
+        "tutorial"
+      ]
     }
   ],
   "contributorsPerLine": 7,
