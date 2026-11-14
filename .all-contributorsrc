@@ -5380,11 +5380,21 @@
         "code"
       ]
     },
-    { 
-        "login": "kairese",
+    {
+      "login": "kairese",
       "name": "Kairese White",
       "avatar_url": "https://github.com/kairese.png",
       "profile": "https://github.com/kairese",
+      "contributions": [
+        "code",
+        "tutorial"
+      ]
+    },
+    {
+      "login": "paul-nikulshin",
+      "name": "Pavel Nikulshin",
+      "avatar_url": "https://avatars.githubusercontent.com/u/51446624?v=4",
+      "profile": "https://github.com/paul-nikulshin",
       "contributions": [
         "code",
         "tutorial"
